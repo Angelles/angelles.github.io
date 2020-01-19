@@ -8,4 +8,5 @@ I am in the process of refreshing my knowledge of HTML5 and of strengthening my 
 ## Contents
 
 1. This readme file.
+2. The [index](http://angelles.github.io/index.html) page.
 2. [The Writing Process](http://angelles.github.io/writingprocess3.html) - An HTML file containing CSS. The stylesheet is not separate.
