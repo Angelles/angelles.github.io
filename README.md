@@ -8,4 +8,4 @@ I am in the process of refreshing my knowledge of HTML5 and of strengthening my 
 ## Contents
 
 1. This readme file.
-2. [The Writing Process](https://github.com/Angelles/sample/blob/master/writingprocess3.html) - An HTML file containing CSS. The stylesheet is not separate.
+2. [The Writing Process](https://github.com/Angelles/angelles.github.io/blob/master/writingprocess3.html) - An HTML file containing CSS. The stylesheet is not separate.
