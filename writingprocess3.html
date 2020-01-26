@@ -99,13 +99,21 @@ ul {
   font-size: auto;
   padding: 20px;
 }
-@media screen and (max-width: 700px) {
-  .sidenav {flex-direction: row;}
-}
+ [class*col-]: {width: 100%}
+  @media only screen and (min-width: 600px)
+    {
+      .col-sidenav {width: 30%;}
+      .col-main {width: 70%;}
+  }
+    @media only screen and (min-width: 768px)
+    {
+      .col-sidenav: {width: 30%;}
+      .col-main: {width: 70%;}
+  }
 </style>
 </head>
 <body>
-  <div class="sidenav">
+  <div class="col-sidenav">
     <a href="#summary">Summary</a>
     <a href="#prewriting">Prewriting</a>
     <a href="#organizing">Organizing</a>
@@ -114,7 +122,7 @@ ul {
     <a href="#editing">Editing</a>
     <a href="#proofreading">Proofreading</a>
 </div>
-<div class="main">
+<div class="col-main">
       <h1>The Writing Process</h1>
   <section>
   <h2 id="summary">Summary</h2>
