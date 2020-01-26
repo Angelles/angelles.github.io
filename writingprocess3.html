@@ -101,18 +101,81 @@ ul {
 }
   @media only screen and (max-width: 600px)
     {
-      .sidenav {width: 100%; background-color: #FF5733; padding: 5px; height: 100%}
-      .main {width: 100%; flex: 70%; font-size: auto; padding: 20px;}
+      .sidenav {flex: 100%; width: 100%; background-color: #FF5733; padding: 5px; height: 100%}
+      .sidenav a { width: 100%;
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: auto;
+  text-align: center;
+  color: #212121;
+  background-color:#FFCE66;
+  display: inline;
+}
+.sidenav a:visited { width: 100%;
+  color: #FBFFE5;
+  text-decoration: none;
+}
+.sidenav a:hover { width: 100%;
+  color: #FBFFE5;
+  background-color:#FF5733;
+  text-decoration: underline;
+}
+.sidenav a:active { width: 100%;
+  color: #212121;
+  text-decoration: none;
+      .main {flex: 100%; width: 100%; font-size: auto; padding: 20px;}
       
   @media only screen and (min-width: 600px)
-    {
-      .sidenav {width: 30%;}
-      .main {width: 70%;}
+    { 
+      .sidenav {flex: 30%; width: 30%; background-color: #FF5733; padding: 5px; height: 100%}
+      .sidenav a { width: 100%;
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: auto;
+  text-align: center;
+  color: #212121;
+  background-color:#FFCE66;
+  display: inline;
+}
+.sidenav a:visited { width: 100%;
+  color: #FBFFE5;
+  text-decoration: none;
+}
+.sidenav a:hover { width: 100%;
+  color: #FBFFE5;
+  background-color:#FF5733;
+  text-decoration: underline;
+}
+.sidenav a:active { width: 100%;
+  color: #212121;
+  text-decoration: none;}
+      .main {width: 100%; flex: 70%; font-size: auto; padding: 20px;}
   }
     @media only screen and (min-width: 768px)
     {
-      .sidenav: {width: 30%;}
-      .main: {width: 70%;}
+           .sidenav {flex: 30%; width: 30%; background-color: #FF5733; padding: 5px; height: 100%}
+      .sidenav a { width: 100%;
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: auto;
+  text-align: center;
+  color: #212121;
+  background-color:#FFCE66;
+  display: block;
+}
+.sidenav a:visited { width: 100%;
+  color: #FBFFE5;
+  text-decoration: none;
+}
+.sidenav a:hover { width: 100%;
+  color: #FBFFE5;
+  background-color:#FF5733;
+  text-decoration: underline;
+}
+.sidenav a:active { width: 100%;
+  color: #212121;
+  text-decoration: none;}
+ .main {width: 100%; flex: 70%; font-size: auto; padding: 20px;}
   }
 </style>
 </head>
