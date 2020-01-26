@@ -74,7 +74,10 @@ a:active {
 color: #37B3A4
 }
    @media only screen and (max-width: 600px)
-     [class*col-] {width: 100%;}
+      {
+        .col-sidenav {width: 100%;}
+        .col-main {width: 100%;}
+  }
   @media only screen and (min-width: 600px)
     {
       .col-sidenav {width: 30%;}
