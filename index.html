@@ -31,11 +31,11 @@ padding: 10px 10px;
 margin: auto;
 width: auto;
 }
-  .sidenav {
+  .col-sidenav {
     flex: 30%;
     height: 100%;
   }
-  .main {
+  .col-main {
     flex: 70%;
   }
 nav {
@@ -75,25 +75,24 @@ a:active {
 color: #37B3A4
 }
   @media screen and (min-width: 450px) {
-    .sidenav:100%;
-    .main: 100%;
+    class[col-]: 100%
   }
   @media only screen and (min-width: 600px)
     {
-      .sidenav: 30%;
-      .main: 70%;
+      .col-sidenav: 30%;
+      .col-main: 70%;
       flex-flow: row;
   }
     @media only screen and (min-width: 768px)
     {
-      .sidenav: 30%;
-      .main: 70%;
+      .col-sidenav: 30%;
+      .col-main: 70%;
       flex-flow: row;
   }
 </style>
 </head>
 <body>
-  <nav class="sidenav">
+  <nav class="col-sidenav">
   <ul>
     <li><a href="/writingprocess3.html">The Writing Process</a></li>
     <li>Link Placeholder</li>
@@ -101,7 +100,7 @@ color: #37B3A4
         <li>Link Placeholder</li>
   </ul>
 </nav>
-  <div class="main">
+  <div class="col-main">
 <h1>Angelle's Github</h1>
 <h2>Purpose</h2>
 <p>The purpose of this repository is to contain sample documents (that are works-in-progress) that demonstrate my ability to use HTML and CSS.</p>
