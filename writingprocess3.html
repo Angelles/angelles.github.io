@@ -4,7 +4,11 @@
 <meta charset="utf-8" http-equiv="content-type" author="Angelle Leger" title="The Writing Process" description="A sample website" meta name="viewport" content="width=device-width, initial-scale=1"></meta>
 <link href="https://fonts.googleapis.com/css?family=Grand+Hotel&display=swap" rel="stylesheet">
 <style>
+* {
+  box-sizing: border-box;
+}
 body {
+  display: flex;
   background-color: #FBFFE5;
   text-decoration-color: #ffffff;
   font-style: normal;
@@ -31,14 +35,12 @@ width: auto;
 font-family: 'Grand Hotel', cursive;
 font-stretch: expanded;
 font-size: 32pt;
-float: top left;
 }
 h2 {
   color: #FF5733;
 padding: 10px 10px;
 margin: auto;
 font-weight: bold;
-float: top left;
 width: auto;
 }
 section {
@@ -65,14 +67,10 @@ ul {
   list-style: none;
 }
 .sidenav {
-  width: 130px;
-  position: fixed;
-  z-index: 1;
-  top: 20px;
-  left: 10px;
-  background: #FF5733;
-  overflow-x: hidden;
-  padding: 8px 0;
+  flex: 30%;
+  background-color: #FF5733;
+  padding: 5px;
+  height: 100%
 }
 .sidenav a {
   padding: 6px 8px 6px 16px;
@@ -97,13 +95,12 @@ ul {
   text-decoration: none;
 }
 .main {
-  margin-left: 140px;
+  flex: 70%;
   font-size: auto;
-  padding: 0px 10px;
+  padding: 20px;
 }
-@media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
+@media screen and (max-width: 700px) {
+  .sidenav {flex-direction: column;}
 }
 </style>
 </head>
@@ -118,7 +115,7 @@ ul {
     <a href="#proofreading">Proofreading</a>
 </div>
 <div class="main">
-    <h1>The Writing Process</h1>
+      <h1>The Writing Process</h1>
   <section>
   <h2 id="summary">Summary</h2>
   <p>The writing process is basically the same in any situation,
@@ -164,6 +161,7 @@ help you to distill your ideas and to focus your topic.</li>
   gathering business or user requirements, or pulling data for analysis. Prewriting is about gathering
   ideas and information that will be further developed or explored in your writing project.</p>
 </section>
+<p style="text-align: center;"><a style="color: #FF5733;" href="#summary">Back to Summary</a></p>
   <section> <h2 id="organizing">Organizing</h2>
   <p>You can use a couple of different strategies to organize your ideas:
   <ul>
@@ -174,6 +172,7 @@ help you to distill your ideas and to focus your topic.</li>
      go in larger circles; supporting ideas go in smaller circles and connect to the main ideas they support with spokes.</li>
   </ul></p>
 </section>
+<p style="text-align: center;"><a style="color: #FF5733;" href="#summary">Back to Summary</a></p>
   <section><h2 id="drafting">Drafting</h2>
 <p>The first version of your writing project is not the final version. After you complete the
 first draft of your document, wait a day and reread your document. You may want
@@ -186,6 +185,7 @@ are trying to communicate. For example, if you are a student working on an essay
 If you are an employee at a company working on a software training document, you
 might get feedback from the resident software subject matter expert or from someone on your team.</p>
 </section>
+<p style="text-align: center;"><a style="color: #FF5733;" href="#summary">Back to Summary</a></p>
 <section><h2 id="revising">Revising</h2>
 <p>Once you have reviewed your draft and received feedback from others, work on revising your document.
 You may have many revisions of a document.</p>
@@ -197,9 +197,11 @@ You may have many revisions of a document.</p>
   </ul></p>
     <p>This will help you to keep track of the latest revision of your document.</p>
 </section>
+<p style="text-align: center;"><a style="color: #FF5733;" href="#summary">Back to Summary</a></p>
 <section><h2 id="editing">Editing</h2>
 <p>Editing involves making sentence-level changes to your work.</p>
 </section>
+<p style="text-align: center;"><a style="color: #FF5733;" href="#summary">Back to Summary</a></p>
 <section><h2 id="proofreading">Proofreading</h2>
   <p>Proofreading involves checking for grammatical and mechanical (punctuation-related)
   errors.</p>
