@@ -74,20 +74,17 @@ color: #959595
 a:active {
 color: #37B3A4
 }
-  @media screen and (min-width: 450px) {
-    class[col-]: 100%
-  }
+  @media screen and (min-width: 450px) 
+    [class*col-]: {width: 100%}
   @media only screen and (min-width: 600px)
     {
-      .col-sidenav: 30%;
-      .col-main: 70%;
-      flex-flow: row;
+      .col-sidenav {width: 30%;}
+      .col-main {width: 70%;}
   }
     @media only screen and (min-width: 768px)
     {
-      .col-sidenav: 30%;
-      .col-main: 70%;
-      flex-flow: row;
+      .col-sidenav: {width: 30%;}
+      .col-main: {width: 70%;}
   }
 </style>
 </head>
