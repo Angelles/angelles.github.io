@@ -4,6 +4,7 @@
 <title>Angelle's Github - Home</title>
 <style>
 body {
+  display: flex;
 background-color: "#000000";
 color: "#172012";
 font-family: sans-serif, Arial, Verdana;
@@ -30,12 +31,15 @@ padding: 10px 10px;
 margin: auto;
 width: auto;
 }
+  .sidenav {
+    flex: 30%;
+  }
+  .main {
+    flex: 70%;
+  }
 nav {
-  float: left;
-  position: relative;
-  width: 20%;
   margin: 0px;
-  padding: 10px 0px;
+  padding: 20px;
   display: block;
 }
 li {
@@ -48,7 +52,6 @@ li {
 }
 div {
   padding: 0px;
-  float: right;
   width: 80%;
   margin: 10px 10px 10px 10px;
 }
@@ -67,7 +70,7 @@ color: #37B3A4
 </style>
 </head>
 <body>
-  <nav>
+  <nav class="sidenav>
   <ul>
     <li><a href="https://github.com/Angelles/angelles.github.io/blob/master/writingprocess3.html">The Writing Process</a></li>
     <li>Link Placeholder</li>
@@ -75,11 +78,11 @@ color: #37B3A4
         <li>Link Placeholder</li>
   </ul>
 </nav>
-  <div>
+  <div class="main">
 <h1>Angelle's Github</h1>
 <h2>Purpose</h2>
 <p>The purpose of this repository is to contain sample documents (that are works-in-progress) that demonstrate my ability to use HTML and CSS.</p>
-<p>I am in the process of refreshing my knowledge of HTML5 and of strengthening my understanding of CSS3. I am also working on learning Markdown.</p>
+<p>I am in the process of refreshing my knowledge of HTML5 and XML; I am also in the process of strengthening my understanding of CSS3. I am also working on learning Markdown.</p>
 </div>
 
 </body>
