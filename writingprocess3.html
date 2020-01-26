@@ -101,8 +101,8 @@ ul {
 }
   @media only screen and (max-width: 600px)
     {
-      .sidenav {width: 100%; background-color: #FF5733; padding: 5px; position: sticky; top:0;left:0;}
-      .sidenav a { width: 100%;
+      .sidenav {flex: 30%; width: 100%; background-color: #FF5733; padding: auto; margin: auto; position: sticky; display: inline;}
+      .sidenav a {
   padding: auto;
   text-decoration: none;
   font-size: auto;
@@ -110,19 +110,19 @@ ul {
   color: #212121;
   background-color:#FFCE66;
 }
-.sidenav a:visited { width: 100%;
+.sidenav a:visited {
   color: #FBFFE5;
   text-decoration: none;
 }
-.sidenav a:hover { width: 100%;
+.sidenav a:hover {
   color: #FBFFE5;
   background-color:#FF5733;
   text-decoration: underline;
 }
-.sidenav a:active { width: 100%;
+.sidenav a:active {
   color: #212121;
   text-decoration: none;
-      .main {flex: 100%; width: 100%; font-size: auto; padding: 20px;}
+      .main {flex: 70%; width: 100%; font-size: auto; padding: 20px;}
       
   @media only screen and (min-width: 600px)
     { 
