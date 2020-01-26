@@ -70,7 +70,7 @@ ul {
   flex: 30%;
   background-color: #FF5733;
   padding: 5px;
-  height: 100%
+  height: 100%;
 }
 .sidenav a {
   padding: 6px 8px 6px 16px;
@@ -99,6 +99,34 @@ ul {
   font-size: auto;
   padding: 20px;
 }
+  .footernav {
+  flex: 100%;
+  background-color: #FF5733;
+  padding: 5px;
+  height: 30%;
+}
+.footernav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: auto;
+  text-align: center;
+  color: #212121;
+  background-color:#FFCE66;
+  display: inline;
+}
+.footernav a:visited {
+  color: #FBFFE5;
+  text-decoration: none;
+}
+.footernav a:hover {
+  color: #FBFFE5;
+  background-color:#FF5733;
+  text-decoration: underline;
+}
+.footernav a:active {
+  color: #212121;
+  text-decoration: none;
+}
   @media only screen and (max-width: 600px)
     {
       .sidenav {visibility: hidden;}
@@ -123,7 +151,8 @@ ul {
 .sidenav a:active {visibility: hidden;
   color: #212121;
   text-decoration: none;
-      .main {flex: 100%; width: 100%; font-size: auto; padding: 20px;}
+      .main {flex: 50%; width: 100%; font-size: auto; padding: 20px;}
+  .footernav {flex: 50%; width: 100%;}
       
   @media only screen and (min-width: 600px)
     { 
@@ -137,19 +166,20 @@ ul {
   background-color:#FFCE66;
   display: inline;
 }
-.sidenav a:visited { width: 100%;
+.sidenav a:visited {
   color: #FBFFE5;
   text-decoration: none;
 }
-.sidenav a:hover { width: 100%;
+.sidenav a:hover { 
   color: #FBFFE5;
   background-color:#FF5733;
   text-decoration: underline;
 }
-.sidenav a:active { width: 100%;
+.sidenav a:active { 
   color: #212121;
   text-decoration: none;}
-      .main {width: 100%; flex: 70%; font-size: auto; padding: 20px;}
+      .main {width: 70%; flex: 70%; font-size: auto; padding: 20px;}
+      .footernav {flex: 100%; width: 100%;}
   }
     @media only screen and (min-width: 768px)
     {
@@ -163,20 +193,22 @@ ul {
   background-color:#FFCE66;
   display: block;
 }
-.sidenav a:visited { width: 100%;
+.sidenav a:visited {
   color: #FBFFE5;
   text-decoration: none;
 }
-.sidenav a:hover { width: 100%;
+.sidenav a:hover {
   color: #FBFFE5;
   background-color:#FF5733;
   text-decoration: underline;
 }
-.sidenav a:active { width: 100%;
+.sidenav a:active {
   color: #212121;
   text-decoration: none;}
  .main {width: 100%; flex: 70%; font-size: auto; padding: 20px;}
   }
+  .footernav {width: 70%; flex: 100%}
+      }
 </style>
 </head>
 <body>
@@ -188,6 +220,7 @@ ul {
     <a href="#revising">Revising</a>
     <a href="#editing">Editing</a>
     <a href="#proofreading">Proofreading</a>
+    <a href="http://www.angelles.github.io/index.html">Back to Index</a>
 </div>
 <div class="main">
       <h1>The Writing Process</h1>
@@ -281,6 +314,16 @@ You may have many revisions of a document.</p>
   <p>Proofreading involves checking for grammatical and mechanical (punctuation-related)
   errors.</p>
 </section>
+  <div class="footernav">
+    <a href="#summary">Summary</a>
+    <a href="#prewriting">Prewriting</a>
+    <a href="#organizing">Organizing</a>
+    <a href="#drafting">Drafting</a>
+    <a href="#revising">Revising</a>
+    <a href="#editing">Editing</a>
+    <a href="#proofreading">Proofreading</a>
+    <a href="http://www.angelles.github.io/index.html">Back to Index</a>
+</div>
 </div>
 </body>
 </html>
