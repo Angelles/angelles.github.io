@@ -1,0 +1,27 @@
+body {
+    font-family: 'Courier New', monospace;
+    color: #7fff00;
+    background-color: #000000;
+}
+h1 {
+    position: sticky;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+div {
+    padding: 2%;
+    margin: 2%;
+    align-content: center;
+}
+button {
+    padding: 2%;
+    margin: 2%;
+    background-color:#e1e0f7;
+    color: #000000;
+    font-weight: bold;
+}
+.game-text, .choose-option, .options, .start-over {
+    text-align: center;
+}

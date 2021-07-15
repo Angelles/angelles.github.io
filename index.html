@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="author" author="Angelle Leger">
+    <meta name="description" content="Adventure Game is a text-based choose-your-own-adventure game that hearkens back to the 1980s." keywords="adventure, game, text-based, choose-your-own-adventure">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="styles.css" rel="stylesheet">
+    <script src="game.js" defer></script>
+    <title>Adventure Game!</title>
+</head>
+<body>
+    <h1>Adventure Game!</h1>
+    <h2>Introduction</h2>
+    <div id="intro"><b>Adventure Game!</b> is a text-based choose-your-own-adventure game that hearkens back to the 1980s. You know what that means: use your imagination to make the adventure come to life!</div>
+    <h2>Instructions</h2>
+    <div id="instructions">To play the game, follow these steps:<br>
+    <ul>
+        <li>Read the paragraph.</li>
+        <li>Read the options below the paragraph.</li>
+        <li>Click the option you want to take.</li>
+        <li>Read the resulting paragraph.</li>
+        <li>Repeat!</li>
+    </ul>
+Once you reach the end of the game, click the <b>Start Over</b> button to play again.</div>
+<hr>
+<h2>Let the adventure begin!</h2>
+<div class="game-text">You wake up and there's a book on your chest. The book wasn't there when you went to sleep. Puzzled, you look around, but no one is in your room. "There's no way someone could have gotten into my house," you say aloud. You open the book to try to find a clue about how the book ended up here.<div>
+<div class="choose-option">Choose an option to move forward.</div
+><div class="options"><button id="1" class="option-1" onclick="text1()">You are sucked into the world of the book.</button></button><button id="2" class="option-2" onclick="text2()">You see a cryptic message, addressed to you, on the first page.</button><button id="3" class="option-3" onclick="text3()">A key and a map fall out of the book's hollowed-out insides.</button></div>
+<div id="resultOne"></div>
+<hr>
+<div><button class="start-over" style="color: red;">Start Over</button></div></body>
+</html>
