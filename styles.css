@@ -21,7 +21,14 @@ button {
     background-color:#e1e0f7;
     color: #000000;
     font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
 }
 .game-text, .choose-option, .options, .start-over {
     text-align: center;
+}
+div.options {
+    display: block;
+}
+div.options2 {
+    display: none;
 }
