@@ -16,7 +16,7 @@ I have more than 10 years of experience. My background is in writing, training, 
 
 I am also familiar with Markdown, XML, and HTML. I am familiar with basic CSS.
 
-You may also check out [my LinkedIn page](https://www.linkedin.com/in/angellescottleger) to learn more about me. My blog is under Latest Posts.
+You may also check out [my LinkedIn page](https://www.linkedin.com/in/angellescottleger) to learn more about me. My blog is under [Recent Posts](/).
 
 I enjoy reading books about negotiation and management; I believe continuous learning is important for continuous improvement. My educational background is in English. My academic areas of interest include American literature, rhetoric and composition, creative writing, and technical writing.
 
