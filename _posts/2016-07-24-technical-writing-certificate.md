@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Technical Writing Certificate"
 date: "2016-07-24"
 tags: 

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Writing a Scholarship Essay: Handout"
 date: "2016-02-29"
 ---

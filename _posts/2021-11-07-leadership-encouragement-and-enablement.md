@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Leadership: Encouragement and Enablement"
 date: "2021-11-07"
 categories: 

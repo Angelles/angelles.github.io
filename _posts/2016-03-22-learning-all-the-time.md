@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Learning All the Time"
 date: "2016-03-22"
 ---

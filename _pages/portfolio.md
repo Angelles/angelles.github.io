@@ -1,6 +1,8 @@
 ---
 layout: single
+title: Portfolio
 author_profile: true
+permalink: /portfolio/
 ---
 
 Technical writing samples are available upon request.

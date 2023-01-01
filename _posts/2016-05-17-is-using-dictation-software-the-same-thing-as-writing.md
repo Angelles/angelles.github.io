@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Is using dictation software the same thing as writing?"
 date: "2016-05-17"
 ---

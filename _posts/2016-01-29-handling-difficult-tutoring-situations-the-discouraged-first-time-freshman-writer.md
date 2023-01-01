@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Handling Difficult Tutoring Situations: The Discouraged First-Time Freshman Writer"
 date: "2016-01-29"
 tags: 

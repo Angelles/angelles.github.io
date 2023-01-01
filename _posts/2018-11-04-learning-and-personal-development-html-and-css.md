@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Learning and Personal Development: HTML and CSS"
 date: "2018-11-04"
 tags: 

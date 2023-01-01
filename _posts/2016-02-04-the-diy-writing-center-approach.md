@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "The DIY Writing Center Approach"
 date: "2016-02-04"
 ---

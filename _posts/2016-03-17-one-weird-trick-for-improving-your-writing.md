@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "One Weird Trick for Improving Your Writing"
 date: "2016-03-17"
 tags: 
