@@ -27,6 +27,7 @@ url: "https://angelles.github.io" # the base hostname & protocol for your site, 
 github_username:  angelles
 github: [metadata]
 repository: "angelles/angelles.github.io"
+author: Angelle Leger
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
