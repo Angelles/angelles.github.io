@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Always Learning: Java"
 date: "2021-11-12"
 categories: 

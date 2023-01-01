@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Removed Content"
 date: "2019-08-22"
 ---

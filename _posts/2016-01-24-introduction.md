@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Introduction"
 date: "2016-01-24"
 ---

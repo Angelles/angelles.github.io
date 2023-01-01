@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Creating Structure Can Increase Writing Productivity"
 date: "2016-02-11"
 tags: 

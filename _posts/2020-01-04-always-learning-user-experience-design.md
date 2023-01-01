@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Always Learning:  User Experience Design"
 date: "2020-01-04"
 tags: 

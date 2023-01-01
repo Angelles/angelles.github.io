@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "A Brief Hiatus"
 date: "2016-04-22"
 ---
