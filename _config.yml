@@ -28,6 +28,7 @@ github_username:  angelles
 github: [metadata]
 repository: "angelles/angelles.github.io"
 author: Angelle Leger
+timezone: America/New_York
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -37,7 +38,13 @@ plugins:
   - jekyll-remote-theme
 
 include: ["_pages"]
-#front matter
+
+# Search settings
+search: true
+lunr:
+  search_within_pages: true
+
+# Front matter
 defaults:
   # _posts
   - scope:
