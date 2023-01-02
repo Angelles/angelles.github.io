@@ -28,6 +28,7 @@ github_username:  angelles
 github: [metadata]
 repository: "angelles/angelles.github.io"
 author: Angelle Leger
+timezone: America/New_York
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
