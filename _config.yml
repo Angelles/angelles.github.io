@@ -37,7 +37,13 @@ plugins:
   - jekyll-remote-theme
 
 include: ["_pages"]
-#front matter
+
+# Search settings
+search: true
+lunr:
+  search_within_pages: true
+
+# Front matter
 defaults:
   # _posts
   - scope:
