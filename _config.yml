@@ -30,12 +30,20 @@ repository: "angelles/angelles.github.io"
 author: Angelle Leger
 timezone: America/New_York
 
+# Google Analytics
+analytics:
+  provider: "custom"
+  custom:
+    tracking_id: "G-4BDG3XJ330"
+    anonymize_ip: false # default
+
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 include: ["_pages"]
 
