@@ -32,9 +32,10 @@ timezone: America/New_York
 
 # Google Analytics
 analytics:
-  provider: "custom-analytics"
-  tracking_id: "G-4BDG3XJ330"
-  anonymize_ip: false # default
+  provider: "custom"
+  custom:
+    tracking_id: "G-4BDG3XJ330"
+    anonymize_ip: false # default
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"

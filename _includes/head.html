@@ -23,3 +23,7 @@
     <script src="{{ script | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+{% if site.tracking_id and jekyll.environment == 'production' %}
+{% include custom.html %}
+{% endif %}
