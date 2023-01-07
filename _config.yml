@@ -32,8 +32,8 @@ timezone: America/New_York
 
 # Google Analytics
 analytics:
-  provider: "custom"
-  custom:
+  provider: "google-gtag"
+  google:
     tracking_id: "G-4BDG3XJ330"
     anonymize_ip: false # default
 
