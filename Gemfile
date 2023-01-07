@@ -13,3 +13,5 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem 'wdm', '>= 0.1.0'
 gem "webrick", "~> 1.7"
+# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+gem "tzinfo-data"
