@@ -30,6 +30,13 @@ repository: "angelles/angelles.github.io"
 author: Angelle Leger
 timezone: America/New_York
 
+# Google Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-4BDG3XJ330"
+    anonymize_ip: false # default
+
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
