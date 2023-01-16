@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Angelle Leger | Technical Writer
+title: Angelle Leger
+subtitle: Technical Writer
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Angelle Leger's professional website
@@ -71,7 +72,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _poems
   - scope:
       path: ""
