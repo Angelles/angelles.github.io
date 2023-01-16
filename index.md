@@ -1,6 +1,13 @@
 ---
 layout: home
-author_profile: true
+author_profile: false
+excerpt: Technical and Professional Writer
+header:
+  overlay_color: "#333"
 ---
 
-I am a technical writer. Learn more about me and what I can do by exploring the content of this website.
+Hello! I'm a writer who enjoys writing, talking about writing, and teaching writing. I also love learning and reading. Technical writing allows me to learn and write about new things every day.
+
+Find out more about me by reading the [About](about) page.
+
+Check out my recent posts below, or explore my creative writing [portfolio](portfolio).
