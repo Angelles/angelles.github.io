@@ -20,6 +20,8 @@ You may also check out [my LinkedIn page](https://www.linkedin.com/in/angellesco
 
 I enjoy reading books about negotiation and management; I believe continuous learning is important for continuous improvement. My educational background is in English. My academic areas of interest include American literature, rhetoric and composition, creative writing, and technical writing.
 
+I also enjoy learning about various languages--programming and otherwise.
+
 Links to samples of my creative work are here. Samples of business/technical writing are available upon request.
 
 If you are wondering how to pronounce my name, here is [a link to a video that explains how to pronounce Angelle](https://www.youtube.com/watch?v=fj_ftgIrYQE). (Hint: it rhymes with Michelle, Gabrielle, and Danielle!)
