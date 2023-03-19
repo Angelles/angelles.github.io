@@ -1,7 +1,8 @@
 ---
 layout: home
+title: Angelle Leger - Technical Writer
 author_profile: false
-excerpt: Technical and Professional Writer
+excerpt: Angelle Leger - Technical Writer
 header:
   overlay_color: "#333"
 ---
