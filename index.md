@@ -12,3 +12,5 @@ Hello! I'm a writer who enjoys writing, talking about writing, and teaching writ
 Find out more about me by reading the [About](about) page.
 
 Check out my recent posts below, or explore my creative writing [portfolio](portfolio).
+
+Check out my recent posts below, or explore my creative writing [portfolio](portfolio).

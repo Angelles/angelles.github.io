@@ -22,6 +22,4 @@ Why am I doing this? I have multiple reasons:
 - I wanted to see how site migration worked in this particular circumstance (Wordpress -> GitHub Pages using Jekyll engine).
 - I want to test out different kinds of plugins and functionalities and be able to see how it all works (Wordpress with a theme obfuscates a lot of this).
 
-I am satisfied with the result.
-
-Check out my content at [https://github.com/Angelles/angelles.github.io](https://github.com/Angelles/angelles.github.io).
+Check out my content at https://github.com/Angelles/angelles.github.io.
