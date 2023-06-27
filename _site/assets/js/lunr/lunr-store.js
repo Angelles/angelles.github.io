@@ -89,6 +89,12 @@ var store = [{
         "url": "/2019/08/22/removed-content.html",
         "teaser": null
       },{
+        "title": "Poem: Home Is a Place Where Everyone Calls You Baby",
+        "excerpt":"I recently wrote this poem and wanted to share it here, rather than submitting it for publication elsewhere. I hope you enjoy it! Angelle Leger Home Is a Place Where Everyone Calls You Baby Something soft settles inside of me when I walk into my old drugstore, When I greet...","categories": [],
+        "tags": ["poem","poetry","writing"],
+        "url": "/2019/12/17/poem-home-is-a-place-where-everyone-calls-you-baby.html",
+        "teaser": null
+      },{
         "title": "Always Learning:  User Experience Design",
         "excerpt":"I’ve recently developed an interest in learning more about user experience (UX) design. I decided to start by taking an online, non-credit introductory course (link to certificate).  I think I’ll read a book about the topic next. I welcome any book and online resource recommendations!  ","categories": [],
         "tags": ["professional-development"],
@@ -105,5 +111,17 @@ var store = [{
         "excerpt":"I’m currently working on learning Java. I want to be the best technical writer I can be. A few of the ways I think I can be more effective include: Being able to read code as easily as I can read a passage written in English Being able to understand...","categories": ["professional-development"],
         "tags": [],
         "url": "/professional-development/2021/11/12/always-learning-java.html",
+        "teaser": null
+      },{
+        "title": "Poem: Be Sweet",
+        "excerpt":"Be Sweet   Be sweet, they said.  If I am myself,  The sand grit your teeth crunch against,  what happens then?  ","categories": [],
+        "tags": ["poetry"],
+        "url": "/2022/04/16/poem-be-sweet.html",
+        "teaser": null
+      },{
+        "title": "Always Learning: Website Migration",
+        "excerpt":"The best way to learn how to do something is to try to do it. I decided recently that I wanted to learn more about different static site generators, starting with Jekyll, a popular SSG. I selected the Minimal Mistakes theme and Github Pages for hosting and deployment. I exported...","categories": ["professional-development"],
+        "tags": [],
+        "url": "/professional-development/2023/01/01/website-migration.html",
         "teaser": null
       }]
