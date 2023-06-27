@@ -35,7 +35,7 @@ timezone: America/New_York
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-4BDG3XJ330"
+    measurement_id: "G-4BDG3XJ330"
     anonymize_ip: false # default
 
 # Build settings

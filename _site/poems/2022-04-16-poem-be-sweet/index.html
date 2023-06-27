@@ -9,14 +9,19 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>            Poem: Be Sweet - Angelle Leger      Technical Writer      </title>
+<!-- begin _includes/seo.html --><title>Poem: Be Sweet - Angelle Leger</title>
 <meta name="description" content="A poem about bitterness.">
 
+
+  <meta name="author" content="Angelle Leger">
+  
+  <meta property="article:author" content="Angelle Leger">
+  
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="Angelle Leger | Technical Writer">
+<meta property="og:site_name" content="Angelle Leger">
 <meta property="og:title" content="Poem: Be Sweet">
 <meta property="og:url" content="http://localhost:4000/poems/2022-04-16-poem-be-sweet/">
 
@@ -62,7 +67,7 @@
 
 
 
-  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Angelle Leger | Technical Writer Feed">
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Angelle Leger Feed">
 
 
 <!-- https://t.co/dKP3o1e -->
@@ -79,12 +84,15 @@
 
 
 
+
     <!-- start custom head snippets -->
+
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
-<!-- end custom head snippets -->
+<link rel="shortcut icon" type="image/png" href="../assets/images/favicon.ico">
 
+<!-- end custom head snippets -->
   </head>
 
   <body class="layout--single">
@@ -108,8 +116,8 @@
       <nav id="site-nav" class="greedy-nav">
         
         <a class="site-title" href="/">
-          Angelle Leger | Technical Writer
-          
+          Angelle Leger
+          <span class="site-subtitle">Technical Writer</span>
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/">Home</a>
@@ -120,6 +128,11 @@
             </li><li class="masthead__menu-item">
               <a href="/portfolio/">Portfolio</a>
             </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
         
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">Toggle menu</span>
@@ -207,6 +220,17 @@ what happens then?</p>
     </div>
 
     
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
 
     <div id="footer" class="page__footer">
       <footer>
@@ -225,7 +249,7 @@ what happens then?</p>
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2023 Angelle Leger | Technical Writer. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2023 Angelle Leger. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>
@@ -235,6 +259,10 @@ what happens then?</p>
 
 
 
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
 
 
 
