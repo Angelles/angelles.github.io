@@ -10,7 +10,7 @@ I recently attended a webinar about docs as code. The webinar covered using GitH
 
 ## Benefits of using GitHub and GitLab
 
-I am familiar with using GitLab for documentation, and this site is hosted on GitHub and uses GitHub Pages. Suffice to say, I believe both sites are excellent for hosting documentation websites, as well as other sites produced with static site generators. Some of the benefits to using GitHub/GitLab include (but are not limited to) the following:
+I have a website hosting my coding experiments on GitLab and GitLab Pages, and this site is hosted on GitHub and uses GitHub Pages. Suffice to say, I believe both sites are excellent options for hosting documentation websites, as well as other sites produced with static site generators. Some of the benefits to using GitHub/GitLab include (but are not limited to) the following:
 - The workflows are well-documented. Most commands are well-documented as well.
 - Both sites allow multiple writers to work on the same files or different files at the same time.
 - It is easy to see who changed what and when (and to roll back changes).
