@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-27T17:29:06-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Angelle Leger</title><subtitle>Angelle Leger&apos;s professional website</subtitle><author><name>Angelle Leger</name></author><entry><title type="html">Always Learning: Website Migration</title><link href="http://localhost:4000/professional-development/2023/01/01/website-migration.html" rel="alternate" type="text/html" title="Always Learning: Website Migration" /><published>2023-01-01T00:00:00-04:00</published><updated>2023-01-01T00:00:00-04:00</updated><id>http://localhost:4000/professional-development/2023/01/01/website-migration</id><content type="html" xml:base="http://localhost:4000/professional-development/2023/01/01/website-migration.html">&lt;p&gt;The best way to learn how to do something is to try to do it.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-03T17:15:30-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Angelle Leger</title><subtitle>Angelle Leger&apos;s professional website</subtitle><author><name>Angelle Leger</name></author><entry><title type="html">Technical Writing, GitHub, GitLab, and Automation</title><link href="http://localhost:4000/professional-development/2023/06/29/technical-writing-github-gitlab-and-automation.html" rel="alternate" type="text/html" title="Technical Writing, GitHub, GitLab, and Automation" /><published>2023-06-29T00:00:00-04:00</published><updated>2023-06-29T00:00:00-04:00</updated><id>http://localhost:4000/professional-development/2023/06/29/technical-writing-github-gitlab-and-automation</id><content type="html" xml:base="http://localhost:4000/professional-development/2023/06/29/technical-writing-github-gitlab-and-automation.html">&lt;p&gt;I recently attended a webinar about docs as code. The webinar covered using GitHub for documentation, GitHub Actions, and GitLab pipelines and LLMs. In this blog post, I’ll cover my thoughts about what was discussed in the webinar.&lt;/p&gt;
+
+&lt;h2 id=&quot;benefits-of-using-github-and-gitlab&quot;&gt;Benefits of using GitHub and GitLab&lt;/h2&gt;
+
+&lt;p&gt;I have a website hosting my coding experiments on GitLab and GitLab Pages, and this site is hosted on GitHub and uses GitHub Pages. Suffice to say, I believe both sites are excellent options for hosting documentation websites, as well as other sites produced with static site generators. Some of the benefits to using GitHub/GitLab include (but are not limited to) the following:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The workflows are well-documented. Most commands are well-documented as well.&lt;/li&gt;
+  &lt;li&gt;Both sites allow multiple writers to work on the same files or different files at the same time.&lt;/li&gt;
+  &lt;li&gt;It is easy to see who changed what and when (and to roll back changes).&lt;/li&gt;
+  &lt;li&gt;The cost is reasonable.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;github-actions-gitlab-pipelines-and-efficiency&quot;&gt;GitHub Actions, GitLab pipelines, and efficiency&lt;/h3&gt;
+
+&lt;p&gt;What interested me most about the webinar was exploring GitHub Actions in a documentation context.&lt;/p&gt;
+
+&lt;p&gt;Writing the actual documentation content requires a lot of effort. At the very least, it involves the following activities:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Gathering and validating information&lt;/li&gt;
+  &lt;li&gt;Writing&lt;/li&gt;
+  &lt;li&gt;Formatting&lt;/li&gt;
+  &lt;li&gt;Revising&lt;/li&gt;
+  &lt;li&gt;Editing&lt;/li&gt;
+  &lt;li&gt;Proofreading&lt;/li&gt;
+  &lt;li&gt;Creating and refining any diagrams or other images
+All of these tasks take time, mental effort, and skill.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Actually publishing the content and ushering it through an approval workflow requires more time and effort. In addition, managing timelines and due dates and tracking approvals requires project management skills–but that’s another post entirely.&lt;/p&gt;
+
+&lt;p&gt;To get the approved and formatted content from GitHub or GitLab published on a website, technical writers must execute a series of commands or steps. Using GitHub Actions or GitLab CI/CD pipelines to automate any of the following tasks would save time and/or improve documentation quality:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Check formatting for correctness&lt;/li&gt;
+  &lt;li&gt;Spellcheck content (though no spell checker catches everything–it’s a nice-to-have backup option)&lt;/li&gt;
+  &lt;li&gt;Create merge or pull requests&lt;/li&gt;
+  &lt;li&gt;Build pages&lt;/li&gt;
+  &lt;li&gt;Deploy pages&lt;/li&gt;
+  &lt;li&gt;Send notification messages to a chat app that can receive curl commands, such as Slack or Teams (see &lt;a href=&quot;https://docs.gitlab.com/ee/ci/jobs/job_control.html&quot;&gt;Choose when jobs run&lt;/a&gt;, &lt;a href=&quot;https://api.slack.com/tutorials/tracks/posting-messages-with-curl&quot;&gt;Posting messages using curl - Slack&lt;/a&gt;, and &lt;a href=&quot;https://learn.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/connectors-using?tabs=cURL&quot;&gt;Create and send messages - Microsoft Teams&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;And more!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;GitHub Actions workflows execute based on what is defined within &lt;a href=&quot;https://docs.github.com/en/actions/using-workflows/about-workflows&quot;&gt;a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.yml&lt;/code&gt; file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.github/workflows&lt;/code&gt; directory&lt;/a&gt; in the root of the repository, while GitLab CI/CD pipelines execute based on what is defined in the &lt;a href=&quot;https://docs.gitlab.com/ee/ci/yaml/gitlab_ci_yaml.html&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.gitlab-ci.yml&lt;/code&gt; file&lt;/a&gt; hosted in the root of the repository. In either case, the YAML file may be customized to reflect and support a specific team’s workflow. Saving time on automatable tasks contributes to the team’s efficiency, which ultimately contributes to the efficiency of the engineering org as a whole.&lt;/p&gt;
+
+&lt;h2 id=&quot;technical-writing-and-llms&quot;&gt;Technical writing and LLMs&lt;/h2&gt;
+
+&lt;p&gt;Since technical writing is about documenting products and topics that haven’t yet been documented (or don’t have updated documentation), an LLM that pulls from existing internet content is not particularly useful in generating documentation about something new or updated. Technical writing jobs won’t be overtaken by LLMs and AI tools any time soon.&lt;/p&gt;
+
+&lt;p&gt;One thing LLMs could be useful for is generating templates for documentation using correct formatting for section headings and metadata sections. However, I feel that LLMs and AI tools operate in an ethical gray area. I wouldn’t want to use it for my work and I would urge companies to not use it to generate content and use it as it is.&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;In summary, my thoughts are that leveraging automation to take care of non-knowledge-based tasks would increase a technical writing team’s efficiency, support the team’s workflow, and allow the team more time to focus on documentation and information architecture.&lt;/p&gt;</content><author><name>Angelle Leger</name></author><category term="professional-development" /><summary type="html">I recently attended a webinar about docs as code. The webinar covered using GitHub for documentation, GitHub Actions, and GitLab pipelines and LLMs. In this blog post, I’ll cover my thoughts about what was discussed in the webinar.</summary></entry><entry><title type="html">Always Learning: Website Migration</title><link href="http://localhost:4000/professional-development/2023/01/01/website-migration.html" rel="alternate" type="text/html" title="Always Learning: Website Migration" /><published>2023-01-01T00:00:00-04:00</published><updated>2023-01-01T00:00:00-04:00</updated><id>http://localhost:4000/professional-development/2023/01/01/website-migration</id><content type="html" xml:base="http://localhost:4000/professional-development/2023/01/01/website-migration.html">&lt;p&gt;The best way to learn how to do something is to try to do it.&lt;/p&gt;
 
 &lt;p&gt;I decided recently that I wanted to learn more about different static site generators, starting with &lt;a href=&quot;https://jekyllrb.com/docs/&quot;&gt;Jekyll&lt;/a&gt;, a popular SSG. I selected &lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes&quot;&gt;the Minimal Mistakes theme&lt;/a&gt; and &lt;a href=&quot;https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages&quot;&gt;Github Pages&lt;/a&gt; for hosting and deployment.&lt;/p&gt;
 
@@ -120,10 +171,4 @@ what happens then?&lt;/p&gt;</content><author><name>Angelle Leger</name></author
 
 &lt;p&gt;The most interesting project I did was a recommendation report about employee engagement, which included a letter of transmittal, a project timeline, a budget, research about employee engagement theories, goals, outcomes, and strategies to achieve the aforementioned goals and outcomes, and so on. The report is based on a fictional company and fictional circumstances, since it was for a class project. You can read it here: &lt;a href=&quot;http://angelleleger.files.wordpress.com/2016/08/angelle-scott-leger_sample-recommendation-report_coursework-1.pdf&quot; title=&quot;Angelle Scott Leger_Sample Recommendation Report_Coursework&quot;&gt;Sample Recommendation Report&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I got a sense of satisfaction out of the program. It allowed me to develop my skills further and to practice the skills I already had, so it was worth it in terms of professional development.&lt;/p&gt;</content><author><name>Angelle Leger</name></author><category term="technical-writing" /><summary type="html">I completed a technical writing certificate program in the spring. The courses emphasized:</summary></entry><entry><title type="html">Is using dictation software the same thing as writing?</title><link href="http://localhost:4000/2016/05/17/is-using-dictation-software-the-same-thing-as-writing.html" rel="alternate" type="text/html" title="Is using dictation software the same thing as writing?" /><published>2016-05-17T00:00:00-04:00</published><updated>2016-05-17T00:00:00-04:00</updated><id>http://localhost:4000/2016/05/17/is-using-dictation-software-the-same-thing-as-writing</id><content type="html" xml:base="http://localhost:4000/2016/05/17/is-using-dictation-software-the-same-thing-as-writing.html">&lt;p&gt;I’m using Dragon NaturallySpeaking to write this blog post. I think that writing using dictation software are different. You have to use different thought processes to get the words on the page. Most of the time, when I speak, I don’t really think ahead about what I’m going to say. When I write, I think about what I say before I write it down. As I write, I revise. When I’m speaking, I don’t revise; however, I do stammer and stutter. I use words such as “like” and “as.”&lt;/p&gt;
-
-&lt;p&gt;I think dictation software is best used by people who have already written down the words that they wish to use. Alternately, it is good for people who actually think before they speak, which is not most of us.&lt;/p&gt;
-
-&lt;p&gt;In the end, speaking as a different brain function for writing. Dictation software cannot fully replace writing. Dictation software such as Dragon NaturallySpeaking is difficult for people with regional accents to use. Lucky for me, I have a generic accent, such as the accent that newscasters have. It is useful for people who have limited use of their hands also.&lt;/p&gt;
-
-&lt;p&gt;I went to see how writing using dictation software compares to writing by hand over the next few weeks.&lt;/p&gt;</content><author><name>Angelle Leger</name></author><summary type="html">I’m using Dragon NaturallySpeaking to write this blog post. I think that writing using dictation software are different. You have to use different thought processes to get the words on the page. Most of the time, when I speak, I don’t really think ahead about what I’m going to say. When I write, I think about what I say before I write it down. As I write, I revise. When I’m speaking, I don’t revise; however, I do stammer and stutter. I use words such as “like” and “as.”</summary></entry></feed>
+&lt;p&gt;I got a sense of satisfaction out of the program. It allowed me to develop my skills further and to practice the skills I already had, so it was worth it in terms of professional development.&lt;/p&gt;</content><author><name>Angelle Leger</name></author><category term="technical-writing" /><summary type="html">I completed a technical writing certificate program in the spring. The courses emphasized:</summary></entry></feed>
