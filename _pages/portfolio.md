@@ -26,6 +26,8 @@ The following list includes links to some of the poems and essays I have written
 - [“One of Those Neighborhoods”](http://www.fwrictionreview.com/post/5010100765/one-of-those-neighborhoods-by-angelle-scott) (*Fwriction Review*)
 - [“Xavier University of Louisiana’s Writing Resource Center”](https://scwca.files.wordpress.com/2011/09/2014_scwca_newsletter-2.pdf)  (pp. 32-33) (essay, PDF) (*SCWCA Newsletter*)
 
+# Poems in print
+
 The following list includes selected poems that can be found in print, with the most recent listed first.
 
 - “The Men Who Sit Under the Trees.” *The Southern Poetry Anthology: Volume V, Georgia.* Ed. William Wright. Huntsville, TX: Texas Review Press, 2013.
