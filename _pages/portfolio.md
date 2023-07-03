@@ -7,6 +7,12 @@ permalink: /portfolio/
 
 Technical writing samples are available upon request.
 
+# Help content - LibreOffice volunteering
+
+- [Zooming In and Out in Calc](https://help.libreoffice.org/master/en-US/text/scalc/01/zoom.html) ([Patch request](https://gerrit.libreoffice.org/c/help/+/148530))
+
+# Poems and essays available online
+
 The following list includes links to some of the poems and essays I have written over the years, available online.
 
 - [“August: When a Window Unit Is Not Enough”](http://www.towncreekpoetry.com/SPR12/SCOTT_AUGUST.htm) (*Town Creek Poetry*)
