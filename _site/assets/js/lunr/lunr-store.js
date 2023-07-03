@@ -124,4 +124,10 @@ var store = [{
         "tags": [],
         "url": "/professional-development/2023/01/01/website-migration.html",
         "teaser": null
+      },{
+        "title": "Technical Writing, GitHub, GitLab, and Automation",
+        "excerpt":"I recently attended a webinar about docs as code. The webinar covered using GitHub for documentation, GitHub Actions, and GitLab pipelines and LLMs. In this blog post, I’ll cover my thoughts about what was discussed in the webinar. Benefits of using GitHub and GitLab I have a website hosting my...","categories": ["professional-development"],
+        "tags": [],
+        "url": "/professional-development/2023/06/29/technical-writing-github-gitlab-and-automation.html",
+        "teaser": null
       }]
