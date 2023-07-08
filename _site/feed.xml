@@ -1,22 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-07T21:46:21-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Angelle Leger</title><subtitle>Angelle Leger&apos;s professional website</subtitle><author><name>Angelle Leger</name></author><entry><title type="html">Technical Writing and Sewing Instructions</title><link href="http://localhost:4000/hobbies/2023/07/07/technical-writing-and-sewing-instructions.html" rel="alternate" type="text/html" title="Technical Writing and Sewing Instructions" /><published>2023-07-07T00:00:00-04:00</published><updated>2023-07-07T00:00:00-04:00</updated><id>http://localhost:4000/hobbies/2023/07/07/technical-writing-and-sewing-instructions</id><content type="html" xml:base="http://localhost:4000/hobbies/2023/07/07/technical-writing-and-sewing-instructions.html">&lt;p&gt;I recently visited a friend who was working on creating a part of one of her parade costumes. She was working on making boot covers and wanted to create a custom pattern from her measurements. I volunteered to help her with the patterning and ended up with a technical writing moment.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-08T07:30:15-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Angelle Leger</title><subtitle>Angelle Leger&apos;s professional website</subtitle><author><name>Angelle Leger</name></author><entry><title type="html">Technical Writing and Sewing Instructions</title><link href="http://localhost:4000/hobbies/2023/07/07/technical-writing-and-sewing-instructions.html" rel="alternate" type="text/html" title="Technical Writing and Sewing Instructions" /><published>2023-07-07T00:00:00-04:00</published><updated>2023-07-07T00:00:00-04:00</updated><id>http://localhost:4000/hobbies/2023/07/07/technical-writing-and-sewing-instructions</id><content type="html" xml:base="http://localhost:4000/hobbies/2023/07/07/technical-writing-and-sewing-instructions.html">&lt;p&gt;I recently visited a friend who was working on creating a part of one of her parade costumes. She was working on making boot covers and wanted to create a custom pattern from her measurements. I volunteered to help her with the patterning and ended up with a technical writing moment.&lt;/p&gt;
 
 &lt;p&gt;We used the method that Colleen Cosplay describes in her video &lt;a href=&quot;https://www.youtube.com/watch?v=P7egpHPTLbQ&amp;amp;ab_channel=ColleenCosplay&quot;&gt;DIY Cosplay Boot Covers Tutorial&lt;/a&gt; to create the pattern.&lt;/p&gt;
 
-&lt;h1 id=&quot;technical-writing-enters-the-scene&quot;&gt;Technical writing enters the scene&lt;/h1&gt;
+&lt;h2 id=&quot;when-technical-writing-and-hobbies-collide&quot;&gt;When technical writing and hobbies collide&lt;/h2&gt;
 
 &lt;p&gt;As we were working on the patterning together, it occurred to me that it would be helpful for my friend to have a set of written steps that covered not only the patterning steps, but the cutting, sewing, fitting, and finishing steps as well. I started writing down the steps as we worked. I told myself that I would keep the steps brief.&lt;/p&gt;
 
-&lt;p&gt;The next day, I looked at the steps and thought to myself, &lt;em&gt;You know what would make this better? Section headings and links to external resources that provide more context about the sewing terms and methods I’m describing in the next.&lt;/em&gt; Next thing you know, I’ve written a multi-page document with multiple note callouts and a list of required materials. I wanted to make sure that every step would be clear for my friend, who is at the beginning of her sewing journey, yes, but also, I fully got into the flow of writing the steps out!&lt;/p&gt;
+&lt;p&gt;The next day, I looked at the steps and thought to myself, &lt;em&gt;You know what would make this better? Section headings and links to external resources that provide more context about the sewing terms and methods I’m describing in the next.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Next thing you know, I’ve written a multi-page document with multiple note callouts and a list of required materials. I wanted to make sure that every step would be clear for my friend, who is at the beginning of her sewing journey, yes, but also, I fully got into the flow of writing the steps out!&lt;/p&gt;
+
+&lt;p&gt;Sewing pattern instructions are just another form of technical writing. Technical writing is present in so many areas of our lives. I find myself turning towards manuals and tutorials almost every day, whether I’m troubleshooting a household appliance issue or trying out a new hobby. Manuals and instructions provide the how-tos when we don’t know how to on our own.&lt;/p&gt;
 
 &lt;p&gt;I’ve included the process below. I enjoyed writing these steps so much.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&quot;how-to-make-boot-covers&quot;&gt;How to make boot covers&lt;/h1&gt;
+&lt;h2 id=&quot;how-to-make-boot-covers&quot;&gt;&lt;a name=&quot;How-to-make-boot-covers&quot;&gt;&lt;/a&gt;How to make boot covers&lt;/h2&gt;
 
-&lt;p class=&quot;callout-info&quot;&gt;This how-to is based on the method Colleen Cosplay describes in her video &lt;a href=&quot;https://www.youtube.com/watch?v=P7egpHPTLbQ&amp;amp;ab_channel=ColleenCosplay&quot; target=&quot;_blank&quot;&gt;DIY Cosplay Boot Covers Tutorial&lt;/a&gt;.&lt;/p&gt;
+&lt;p class=&quot;callout callout-info&quot;&gt;This how-to is based on the method Colleen Cosplay describes in her video &lt;a href=&quot;https://www.youtube.com/watch?v=P7egpHPTLbQ&amp;amp;ab_channel=ColleenCosplay&quot; target=&quot;_blank&quot;&gt;DIY Cosplay Boot Covers Tutorial&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&quot;required-materials&quot;&gt;Required materials&lt;/h2&gt;
+&lt;h3 id=&quot;required-materials&quot;&gt;Required materials&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Cling wrap (also known as plastic wrap, Saran Wrap)&lt;/li&gt;
@@ -34,7 +38,7 @@
   &lt;li&gt;¼ inch elastic&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;make-a-cast-of-your-feet-and-legs&quot;&gt;Make a cast of your feet and legs&lt;/h2&gt;
+&lt;h3 id=&quot;make-a-cast-of-your-feet-and-legs&quot;&gt;Make a cast of your feet and legs&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Wrap leg and foot in a minimum of one layer of cling wrap up to the knee.&lt;/li&gt;
@@ -48,7 +52,7 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&quot;divide-casts-and-label-them&quot;&gt;Divide casts and label them&lt;/h2&gt;
+&lt;h3 id=&quot;divide-casts-and-label-them&quot;&gt;Divide casts and label them&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Complete the following steps for each cast.&lt;/li&gt;
@@ -72,7 +76,7 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2&gt;&lt;a name=&quot;Optional-Create-a-paper-pattern&quot;&gt;&lt;/a&gt;Optional: Create a paper pattern&lt;/h2&gt;
+&lt;h3 id=&quot;optional-create-a-paper-pattern&quot;&gt;&lt;a name=&quot;Optional-Create-a-paper-pattern&quot;&gt;&lt;/a&gt;Optional: Create a paper pattern&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Create a more permanent pattern by completing the following steps:
@@ -85,15 +89,15 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2&gt;&lt;a name=&quot;Prepare-and-cut-fabric&quot;&gt;&lt;/a&gt;Prepare and cut fabric&lt;/h2&gt;
+&lt;h3 id=&quot;prepare-and-cut-fabric&quot;&gt;&lt;a name=&quot;Prepare-and-cut-fabric&quot;&gt;&lt;/a&gt;Prepare and cut fabric&lt;/h3&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Lay pattern pieces on the wrong side of the fabric with the direction of greatest stretch parallel to the grainline. Do this so that the boot covers will stretch to fit your foot and leg.&lt;/li&gt;
+  &lt;li&gt;Lay pattern pieces &lt;a href=&quot;https://www.allpeoplequilt.com/how-to-quilt/quilting-basics/what-does-right-sidewrong-side-mean#:~:text=Right%20side%3A%20When%20instructions%20mention,wrong%22%20side%20of%20the%20fabric.&quot;&gt;on the wrong side of the fabric&lt;/a&gt; with the direction of greatest stretch parallel to the grainline. Do this so that the boot covers will stretch to fit your foot and leg.&lt;/li&gt;
   &lt;li&gt;Pin or weight the pattern pieces to keep them in place.
 Use a washable fabric marker or pencil to trace the pattern pieces on the fashion fabric. Add seam allowance if you skipped &lt;a href=&quot;#Optional-Create-a-paper-pattern&quot;&gt;Optional: Create a paper pattern&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;Optionally, draw the sewing line ½ in from the edge.&lt;/li&gt;
   &lt;li&gt;Cut out pattern pieces from the fashion fabric.&lt;/li&gt;
-  &lt;li&gt;Use a washable fabric marker or pencil to label the fabric pattern pieces with the following information on the wrong side of the fabric:
+  &lt;li&gt;Use a washable fabric marker or pencil to label the fabric pattern pieces with the following information &lt;strong&gt;on the wrong side of the fabric&lt;/strong&gt;:
     &lt;ul&gt;
       &lt;li&gt;The foot and leg each pattern piece is for&lt;/li&gt;
       &lt;li&gt;Which part of the foot and leg each pattern piece is for (inner or outer)&lt;/li&gt;
@@ -103,33 +107,33 @@ Use a washable fabric marker or pencil to trace the pattern pieces on the fashio
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&quot;check-and-adjust-fit-before-sewing&quot;&gt;Check and adjust fit before sewing&lt;/h2&gt;
+&lt;h3 id=&quot;check-and-adjust-fit-before-sewing&quot;&gt;Check and adjust fit before sewing&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Pin fabric pieces together, wrong sides together.
 Try the boot cover on.&lt;/li&gt;
   &lt;li&gt;Adjust the sewing line and pins as needed to achieve a good fit.&lt;/li&gt;
-  &lt;li&gt;Rub the fabric pencil or marker along the new sewing line on the wrong side of the fabric.&lt;/li&gt;
+  &lt;li&gt;Rub the fabric pencil or marker along the new sewing line &lt;strong&gt;on the wrong side of the fabric&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&quot;pin-pieces-and-sew&quot;&gt;Pin pieces and sew&lt;/h2&gt;
+&lt;h3 id=&quot;pin-pieces-and-sew&quot;&gt;Pin pieces and sew&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Pin the fabric pieces together, right sides together.&lt;/li&gt;
   &lt;li&gt;Using a zigzag stitch, sew from the back of the knee to the start of the heel along the sewing line.&lt;/li&gt;
   &lt;li&gt;Press the seam flat.&lt;/li&gt;
-  &lt;li&gt;Open the seam and press the seam on the wrong side.&lt;/li&gt;
+  &lt;li&gt;Open the seam and press the seam &lt;strong&gt;on the wrong side&lt;/strong&gt;.&lt;/li&gt;
   &lt;li&gt;Turn the boot cover right side out and carefully press. If your fabric is prone to shine, place a tea towel or press cloth between the iron and the fabric.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&quot;complete-finishing&quot;&gt;Complete finishing&lt;/h2&gt;
+&lt;h3 id=&quot;complete-finishing&quot;&gt;Complete finishing&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Finish edges with a zigzag stitch on the sewing machine or with a serged edge using a serger. You may choose to zigzag the edges together or open. For more information on seam finishing, see &lt;a href=&quot;https://blog.megannielsen.com/2013/03/tutorial-six-seam-finishes-and-when-to-use-them/&quot;&gt;Tutorial: Six Seam Finishes &amp;amp; When to Use Them&lt;/a&gt; by Holly of Megan Nielsen.&lt;/li&gt;
   &lt;li&gt;To finish the top of the boot cover, you can choose one of the following options:
     &lt;ul&gt;
       &lt;li&gt;&lt;strong&gt;Option 1:&lt;/strong&gt; Fold the top edge over ¼ inch, wrong sides together, then fold it over ¼ inch again. Pin. Topstitch close to the edge of the fold. Press.&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Option 2:&lt;/strong&gt; Sew other additional decoration (such as a strip of pleather, decorative edging, or a band of fabric) to the top edge of the boot cover, wrong sides together. Press, then press open on the wrong side. Press on the right side. Finish edge with a zigzag.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Option 2:&lt;/strong&gt; Sew other additional decoration (such as a strip of pleather, decorative edging, or a band of fabric) to the top edge of the boot cover, wrong sides together. Press, then press open &lt;strong&gt;on the wrong side&lt;/strong&gt;. Press &lt;strong&gt;on the right side&lt;/strong&gt;. Finish edge with a zigzag.&lt;/li&gt;
       &lt;li&gt;&lt;strong&gt;Option 3:&lt;/strong&gt; Use Method 1 described in &lt;a href=&quot;https://sewmesomethingblog.com/how-to-sew-an-elastic-casing/&quot;&gt;How to Sew an Elastic Casing&lt;/a&gt; by Sew Me Something.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;

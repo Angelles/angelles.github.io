@@ -1272,6 +1272,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
   .masthead, .toc, .page__share, .page__related, .pagination, .ads, .page__footer, .page__comments-form, .author__avatar, .author__content, .author__urls-wrapper, .nav__list, .sidebar, .adsbygoogle { display: none !important; height: 1px !important; } }
 
   /* callouts */
+  /* See https://getbootstrap.com/docs/5.0/customize/components/#creating-your-own */
 .callout {
     padding: 1.25rem;
     margin-top: 1.25rem;
