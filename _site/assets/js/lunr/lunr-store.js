@@ -130,4 +130,10 @@ var store = [{
         "tags": [],
         "url": "/professional-development/2023/06/29/technical-writing-github-gitlab-and-automation.html",
         "teaser": null
+      },{
+        "title": "Technical Writing and Sewing Instructions",
+        "excerpt":"I recently visited a friend who was working on creating a part of one of her parade costumes. She was working on making boot covers and wanted to create a custom pattern from her measurements. I volunteered to help her with the patterning and ended up with a technical writing...","categories": ["hobbies"],
+        "tags": [],
+        "url": "/hobbies/2023/07/07/technical-writing-and-sewing-instructions.html",
+        "teaser": null
       }]
