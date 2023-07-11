@@ -1,15 +1,20 @@
 ---
 layout: single
 title: Portfolio
-author_profile: true
+author_profile: false
+toc: true
 permalink: /portfolio/
 ---
 
 Technical writing samples are available upon request.
 
-# Help content - LibreOffice volunteering
+# Open source software documentation
 
-- [Zooming In and Out in Calc](https://help.libreoffice.org/master/en-US/text/scalc/01/zoom.html) ([Patch request](https://gerrit.libreoffice.org/c/help/+/148530))
+- LibreOffice: [Zooming In and Out in Calc](https://help.libreoffice.org/master/en-US/text/scalc/01/zoom.html) ([Patch request](https://gerrit.libreoffice.org/c/help/+/148530))
+
+# My GitHub profile
+
+- [My GitHub profile](https://github.com/Angelles)
 
 # Poems and essays available online
 
