@@ -1,9 +1,5 @@
 # /_data/authors.yml
-# /_data/authors.yml
 
 Angelle Leger:
-  name        : "Angelle Leger"
-  bio         : "I am a technical writer. I also write poetry and creative non-fiction."
-Angelle Leger:
-  name        : "Angelle Leger"
+  # name        : "Angelle Leger"
   bio         : "I am a technical writer. I also write poetry and creative non-fiction."
