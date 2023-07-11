@@ -1,14 +1,16 @@
 ---
 layout: home
-title: Angelle Leger - Technical Writer
+title: Angelle Leger
 author_profile: false
 excerpt: Talking about technical writing, continuous learning, and more
 header:
   overlay_color: "#333"
 ---
 
-Hello! I'm a writer who enjoys writing, talking about writing, and teaching writing. I also love learning and reading. Technical writing allows me to learn and write about new things every day.
+Hello! I'm a writer who enjoys learning. Technical writing allows me to learn and write about new things every day.
 
 Find out more about me by reading the [About](about) page.
 
-Check out my recent posts below, or explore my creative writing [portfolio](portfolio).
+Check out my recent posts below, or explore my [portfolio](portfolio).
+
+I made this site with GitHub Pages. Interested in checking out my repos? Check out [my GitHub profile](https://github.com/Angelles).
