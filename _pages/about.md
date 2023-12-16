@@ -5,7 +5,7 @@ author_profile: false
 permalink: /about/
 ---
 
-I have more than 10 years of experience. My background is in writing, training, and higher education. My professional skills include:
+I have more than 15 years of experience. My background is in writing, training, and higher education. My professional skills include:
 
 - Technical writing (6+ years)
 - Training
@@ -14,7 +14,14 @@ I have more than 10 years of experience. My background is in writing, training, 
 - Teaching first-year college writing (freshman English composition)
 - Writing center administration
 
-I am also familiar with Markdown, XML, and HTML. I am familiar with basic CSS. I am in the process of learning Python and Java.
+Technical skills include:
+- Markup languages:
+    - HTML
+    - Markdown
+    - XML
+- Programming languages:
+    - Java (beginner)
+    - Python (beginner)
 
 You may also check out [my LinkedIn page](https://www.linkedin.com/in/angellescottleger) to learn more about me. My blog is under [Recent Posts](/).
 
