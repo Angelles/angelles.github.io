@@ -12,9 +12,10 @@ Technical writing samples are available upon request.
 
 - LibreOffice: [Zooming In and Out in Calc](https://help.libreoffice.org/master/en-US/text/scalc/01/zoom.html) ([Patch request](https://gerrit.libreoffice.org/c/help/+/148530))
 
-# My GitHub profile
+# GitHub
 
 - [My GitHub profile](https://github.com/Angelles)
+- [Samples](https://github.com/Angelles/samples/tree/main)
 
 # Poems and essays available online
 
