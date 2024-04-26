@@ -2,12 +2,16 @@
 layout: home
 title: Angelle Leger
 author_profile: false
-excerpt: Talking about technical writing, continuous learning, and more
+excerpt: Talking about programming, technical writing, continuous learning, and more
 header:
   overlay_color: "#333"
 ---
 
-Hello! I'm a writer who enjoys learning. Technical writing allows me to learn and write about new things every day.
+Hello! I am:
+
+- an aspiring software developer
+- a technical writing expert
+- a continuous learning enthusiast
 
 Find out more about me by reading the [About](about) page.
 
