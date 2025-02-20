@@ -5,7 +5,7 @@ author_profile: false
 permalink: /about/
 ---
 
-I am currently in the process of pursuing a degree in Computer Science. I am interested in software development.
+I am currently in the process of pursuing a degree in Computer Science. I have several years of experience in technical writing. 
 
 My technical skills include:
 - Programming languages:
