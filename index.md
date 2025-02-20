@@ -7,11 +7,7 @@ header:
   overlay_color: "#333"
 ---
 
-Hello! I am:
-
-- an aspiring software developer
-- a technical writing expert
-- a continuous learning enthusiast
+Hello! I am a technical writing expert and a learning enthusiast. 
 
 Find out more about me by reading the [About](about) page.
 
