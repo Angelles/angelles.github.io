@@ -1,308 +1,322 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-11T08:21:29-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Angelle Leger</title><subtitle>Angelle Leger&apos;s professional website</subtitle><author><name>Angelle Leger</name></author><entry><title type="html">Technical Writing and Sewing Instructions</title><link href="http://localhost:4000/hobbies/2023/07/07/technical-writing-and-sewing-instructions.html" rel="alternate" type="text/html" title="Technical Writing and Sewing Instructions" /><published>2023-07-07T00:00:00-04:00</published><updated>2023-07-07T00:00:00-04:00</updated><id>http://localhost:4000/hobbies/2023/07/07/technical-writing-and-sewing-instructions</id><content type="html" xml:base="http://localhost:4000/hobbies/2023/07/07/technical-writing-and-sewing-instructions.html">&lt;p&gt;I recently visited a friend who was working on creating a part of one of her parade costumes. She was working on making boot covers and wanted to create a custom pattern from her measurements. I volunteered to help her with the patterning and ended up with a technical writing moment.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-15T10:00:55-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Angelle Leger</title><subtitle>Angelle Leger&apos;s professional website</subtitle><author><name>Angelle Leger</name></author><entry><title type="html">I’m Pursuing a Computer Science Degree</title><link href="http://localhost:4000/learning/2024/04/10/pursuing-cs-degree.html" rel="alternate" type="text/html" title="I’m Pursuing a Computer Science Degree" /><published>2024-04-10T00:00:00-04:00</published><updated>2024-04-10T00:00:00-04:00</updated><id>http://localhost:4000/learning/2024/04/10/pursuing-cs-degree</id><content type="html" xml:base="http://localhost:4000/learning/2024/04/10/pursuing-cs-degree.html"><![CDATA[<p>It’s been almost a year since I last posted. What have I been up to? I’ve been pursuing a degree in computer science.</p>
 
-&lt;p&gt;We used the method that Colleen Cosplay describes in her video &lt;a href=&quot;https://www.youtube.com/watch?v=P7egpHPTLbQ&amp;amp;ab_channel=ColleenCosplay&quot;&gt;DIY Cosplay Boot Covers Tutorial&lt;/a&gt; to create the pattern.&lt;/p&gt;
+<h2 id="why-computer-science">Why computer science?</h2>
 
-&lt;h2 id=&quot;when-technical-writing-and-hobbies-collide&quot;&gt;When technical writing and hobbies collide&lt;/h2&gt;
+<p>I think it’s interesting. I enjoy writing programs, problem solving, and troubleshooting. I feel a sense of achievement I get when I complete or fix something. I want to know <em>more</em> about the fundamentals and patterns that underlie all applications. I learned a lot about specific software products as a technical writer; I want to understand the broader context.</p>
 
-&lt;p&gt;As we were working on the patterning together, it occurred to me that it would be helpful for my friend to have a set of written steps that covered not only the patterning steps, but the cutting, sewing, fitting, and finishing steps as well. I started writing down the steps as we worked. I told myself that I would keep the steps brief.&lt;/p&gt;
+<h2 id="what-ive-learned-so-far">What I’ve learned so far</h2>
 
-&lt;p&gt;The next day, I looked at the steps and thought to myself, &lt;em&gt;You know what would make this better? Section headings and links to external resources that provide more context about the sewing terms and methods I’m describing in the next.&lt;/em&gt;&lt;/p&gt;
+<p>The courses I have taken thus far have covered:</p>
+<ul>
+  <li>Java</li>
+  <li>Python</li>
+  <li>Object-oriented programming</li>
+</ul>
 
-&lt;p&gt;Next thing you know, I’ve written a multi-page document with multiple note callouts and a list of required materials. I wanted to make sure that every step would be clear for my friend, who is at the beginning of her sewing journey, yes, but also, I fully got into the flow of writing the steps out!&lt;/p&gt;
+<p>I am currently taking courses that cover:</p>
+<ul>
+  <li>C</li>
+  <li>Shell scripting</li>
+  <li>Swift and iOS app development</li>
+</ul>
 
-&lt;p&gt;Sewing pattern instructions are just another form of technical writing. Technical writing is present in so many areas of our lives. I find myself turning towards manuals and tutorials almost every day, whether I’m troubleshooting a household appliance issue or trying out a new hobby. Manuals and instructions provide the how-tos when we don’t know how to on our own.&lt;/p&gt;
+<p>I will be taking a course that covers data structures and algorithms in the near future. I’m excited to learn more.</p>]]></content><author><name>Angelle Leger</name></author><category term="learning" /><summary type="html"><![CDATA[It’s been almost a year since I last posted. What have I been up to? I’ve been pursuing a degree in computer science.]]></summary></entry><entry><title type="html">Technical Writing and Sewing Instructions</title><link href="http://localhost:4000/hobbies/2023/07/07/technical-writing-and-sewing-instructions.html" rel="alternate" type="text/html" title="Technical Writing and Sewing Instructions" /><published>2023-07-07T00:00:00-04:00</published><updated>2023-07-07T00:00:00-04:00</updated><id>http://localhost:4000/hobbies/2023/07/07/technical-writing-and-sewing-instructions</id><content type="html" xml:base="http://localhost:4000/hobbies/2023/07/07/technical-writing-and-sewing-instructions.html"><![CDATA[<p>I recently visited a friend who was working on creating a part of one of her parade costumes. She was working on making boot covers and wanted to create a custom pattern from her measurements. I volunteered to help her with the patterning and ended up with a technical writing moment.</p>
 
-&lt;p&gt;I’ve included the process below. I enjoyed writing these steps so much.&lt;/p&gt;
+<p>We used the method that Colleen Cosplay describes in her video <a href="https://www.youtube.com/watch?v=P7egpHPTLbQ&amp;ab_channel=ColleenCosplay">DIY Cosplay Boot Covers Tutorial</a> to create the pattern.</p>
 
-&lt;hr /&gt;
+<h2 id="when-technical-writing-and-hobbies-collide">When technical writing and hobbies collide</h2>
 
-&lt;h2 id=&quot;how-to-make-boot-covers&quot;&gt;&lt;a name=&quot;How-to-make-boot-covers&quot;&gt;&lt;/a&gt;How to make boot covers&lt;/h2&gt;
+<p>As we were working on the patterning together, it occurred to me that it would be helpful for my friend to have a set of written steps that covered not only the patterning steps, but the cutting, sewing, fitting, and finishing steps as well. I started writing down the steps as we worked. I told myself that I would keep the steps brief.</p>
 
-&lt;p class=&quot;callout callout-info&quot;&gt;This how-to is based on the method Colleen Cosplay describes in her video &lt;a href=&quot;https://www.youtube.com/watch?v=P7egpHPTLbQ&amp;amp;ab_channel=ColleenCosplay&quot; target=&quot;_blank&quot;&gt;DIY Cosplay Boot Covers Tutorial&lt;/a&gt;.&lt;/p&gt;
+<p>The next day, I looked at the steps and thought to myself, <em>You know what would make this better? Section headings and links to external resources that provide more context about the sewing terms and methods I’m describing in the next.</em></p>
 
-&lt;h3 id=&quot;required-materials&quot;&gt;Required materials&lt;/h3&gt;
+<p>Next thing you know, I’ve written a multi-page document with multiple note callouts and a list of required materials. I wanted to make sure that every step would be clear for my friend, who is at the beginning of her sewing journey, yes, but also, I fully got into the flow of writing the steps out!</p>
 
-&lt;ul&gt;
-  &lt;li&gt;Cling wrap (also known as plastic wrap, Saran Wrap)&lt;/li&gt;
-  &lt;li&gt;Painter’s tape or duct tape&lt;/li&gt;
-  &lt;li&gt;Scissors&lt;/li&gt;
-  &lt;li&gt;Fabric scissors&lt;/li&gt;
-  &lt;li&gt;Large paper, such as craft paper or wrapping paper&lt;/li&gt;
-  &lt;li&gt;Marker or Sharpie&lt;/li&gt;
-  &lt;li&gt;Ruler&lt;/li&gt;
-  &lt;li&gt;Washable fabric marker or pencil&lt;/li&gt;
-  &lt;li&gt;Knit fabric with stretch&lt;/li&gt;
-  &lt;li&gt;Pins (preferably glass head)&lt;/li&gt;
-  &lt;li&gt;Sewing machine (with jersey/knit or universal needle and a bobbin full of thread to match the fabric)&lt;/li&gt;
-  &lt;li&gt;Sewing machine thread to match the knit fabric&lt;/li&gt;
-  &lt;li&gt;¼ inch elastic&lt;/li&gt;
-&lt;/ul&gt;
+<p>Sewing pattern instructions are just another form of technical writing. Technical writing is present in so many areas of our lives. I find myself turning towards manuals and tutorials almost every day, whether I’m troubleshooting a household appliance issue or trying out a new hobby. Manuals and instructions provide the how-tos when we don’t know how to on our own.</p>
 
-&lt;h3 id=&quot;make-a-cast-of-your-feet-and-legs&quot;&gt;Make a cast of your feet and legs&lt;/h3&gt;
+<p>I’ve included the process below. I enjoyed writing these steps so much.</p>
 
-&lt;ol&gt;
-  &lt;li&gt;Wrap leg and foot in a minimum of one layer of cling wrap up to the knee.&lt;/li&gt;
-  &lt;li&gt;Tape leg and foot in a minimum of one layer of painter’s or duct tape up to the knee. This creates a cast of the leg and foot.&lt;/li&gt;
-  &lt;li&gt;Draw in desired boot decorative details on the cast where they should appear in the finished product.&lt;/li&gt;
-  &lt;li&gt;Starting from the center knee, carefully cut the tape and cling wrap cast from the leg and foot.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Repeat steps 1-4 for the other foot.&lt;/p&gt;
+<hr />
 
-    &lt;p class=&quot;callout callout-info&quot;&gt;You may choose to skip step 5 and use the same cast for both feet, but note that when you get to the &lt;a href=&quot;#Prepare-and-cut-fabric&quot;&gt;Prepare and cut fabric&lt;/a&gt; section, you must turn the pattern pieces over on the fabric to cut the mirror image.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+<h2 id="how-to-make-boot-covers"><a name="How-to-make-boot-covers"></a>How to make boot covers</h2>
 
-&lt;h3 id=&quot;divide-casts-and-label-them&quot;&gt;Divide casts and label them&lt;/h3&gt;
+<p class="callout callout-info">This how-to is based on the method Colleen Cosplay describes in her video <a href="https://www.youtube.com/watch?v=P7egpHPTLbQ&amp;ab_channel=ColleenCosplay" target="_blank">DIY Cosplay Boot Covers Tutorial</a>.</p>
 
-&lt;ol&gt;
-  &lt;li&gt;Complete the following steps for each cast.&lt;/li&gt;
-  &lt;li&gt;Fold the tape and cling wrap cast in half, bringing the cut edges together.&lt;/li&gt;
-  &lt;li&gt;Cut along the center line (i.e. from the back of the knee to the back of the heel). You now have two pattern pieces.&lt;/li&gt;
-  &lt;li&gt;Label the pattern pieces with the following information:
-    &lt;ul&gt;
-      &lt;li&gt;The foot and leg each pattern piece is for&lt;/li&gt;
-      &lt;li&gt;Which part of the foot and leg each pattern piece is for (inner or outer)&lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“No seam allowance included”&lt;/p&gt;
+<h3 id="required-materials">Required materials</h3>
 
-        &lt;p class=&quot;callout callout-info&quot;&gt;For information about seam allowance, see &lt;a href=&quot;https://en.wikipedia.org/wiki/Seam_allowance&quot; target=&quot;_blank&quot;&gt;Seam allowance on Wikipedia&lt;/a&gt;.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Grainline with arrows pointing towards the cut edges&lt;/p&gt;
+<ul>
+  <li>Cling wrap (also known as plastic wrap, Saran Wrap)</li>
+  <li>Painter’s tape or duct tape</li>
+  <li>Scissors</li>
+  <li>Fabric scissors</li>
+  <li>Large paper, such as craft paper or wrapping paper</li>
+  <li>Marker or Sharpie</li>
+  <li>Ruler</li>
+  <li>Washable fabric marker or pencil</li>
+  <li>Knit fabric with stretch</li>
+  <li>Pins (preferably glass head)</li>
+  <li>Sewing machine (with jersey/knit or universal needle and a bobbin full of thread to match the fabric)</li>
+  <li>Sewing machine thread to match the knit fabric</li>
+  <li>¼ inch elastic</li>
+</ul>
 
-        &lt;p class=&quot;callout callout-info&quot;&gt;The grainline indicates the direction of stretch. For knit fabrics, this is the direction of greatest stretch. For woven fabrics, this is parallel to the selvedge, or the woven, non-cut edge of the fabric. For more information about grainlines, see &lt;a href=&quot;https://www.thecuttingclass.com/grainlines/&quot; target=&quot;_blank&quot;&gt;A Basic Explanation of Grain Lines&lt;/a&gt; by The Cutting Class.&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+<h3 id="make-a-cast-of-your-feet-and-legs">Make a cast of your feet and legs</h3>
 
-&lt;h3 id=&quot;optional-create-a-paper-pattern&quot;&gt;&lt;a name=&quot;Optional-Create-a-paper-pattern&quot;&gt;&lt;/a&gt;Optional: Create a paper pattern&lt;/h3&gt;
+<ol>
+  <li>Wrap leg and foot in a minimum of one layer of cling wrap up to the knee.</li>
+  <li>Tape leg and foot in a minimum of one layer of painter’s or duct tape up to the knee. This creates a cast of the leg and foot.</li>
+  <li>Draw in desired boot decorative details on the cast where they should appear in the finished product.</li>
+  <li>Starting from the center knee, carefully cut the tape and cling wrap cast from the leg and foot.</li>
+  <li>
+    <p>Repeat steps 1-4 for the other foot.</p>
 
-&lt;ol&gt;
-  &lt;li&gt;Create a more permanent pattern by completing the following steps:
-    &lt;ol&gt;
-      &lt;li&gt;Lay pattern pieces on large pieces of paper or light cardboard.&lt;/li&gt;
-      &lt;li&gt;Trace around the pattern pieces, smoothing out any lines.&lt;/li&gt;
-      &lt;li&gt;Use a ruler to add a seam allowance by drawing a line ½ inch (0.5 inch) around the outside of the pattern piece tracing.&lt;/li&gt;
-      &lt;li&gt;Cut out the paper pattern pieces by cutting on the line drawn in step 1.3.&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+    <p class="callout callout-info">You may choose to skip step 5 and use the same cast for both feet, but note that when you get to the <a href="#Prepare-and-cut-fabric">Prepare and cut fabric</a> section, you must turn the pattern pieces over on the fabric to cut the mirror image.</p>
+  </li>
+</ol>
 
-&lt;h3 id=&quot;prepare-and-cut-fabric&quot;&gt;&lt;a name=&quot;Prepare-and-cut-fabric&quot;&gt;&lt;/a&gt;Prepare and cut fabric&lt;/h3&gt;
+<h3 id="divide-casts-and-label-them">Divide casts and label them</h3>
 
-&lt;ol&gt;
-  &lt;li&gt;Lay pattern pieces &lt;a href=&quot;https://www.allpeoplequilt.com/how-to-quilt/quilting-basics/what-does-right-sidewrong-side-mean#:~:text=Right%20side%3A%20When%20instructions%20mention,wrong%22%20side%20of%20the%20fabric.&quot;&gt;on the wrong side of the fabric&lt;/a&gt; with the direction of greatest stretch parallel to the grainline. Do this so that the boot covers will stretch to fit your foot and leg.&lt;/li&gt;
-  &lt;li&gt;Pin or weight the pattern pieces to keep them in place.
-Use a washable fabric marker or pencil to trace the pattern pieces on the fashion fabric. Add seam allowance if you skipped &lt;a href=&quot;#Optional-Create-a-paper-pattern&quot;&gt;Optional: Create a paper pattern&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Optionally, draw the sewing line ½ in from the edge.&lt;/li&gt;
-  &lt;li&gt;Cut out pattern pieces from the fashion fabric.&lt;/li&gt;
-  &lt;li&gt;Use a washable fabric marker or pencil to label the fabric pattern pieces with the following information &lt;strong&gt;on the wrong side of the fabric&lt;/strong&gt;:
-    &lt;ul&gt;
-      &lt;li&gt;The foot and leg each pattern piece is for&lt;/li&gt;
-      &lt;li&gt;Which part of the foot and leg each pattern piece is for (inner or outer)&lt;/li&gt;
-      &lt;li&gt;“½ inch seam allowance included”&lt;/li&gt;
-      &lt;li&gt;Grainline with arrows pointing towards the cut edges&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+<ol>
+  <li>Complete the following steps for each cast.</li>
+  <li>Fold the tape and cling wrap cast in half, bringing the cut edges together.</li>
+  <li>Cut along the center line (i.e. from the back of the knee to the back of the heel). You now have two pattern pieces.</li>
+  <li>Label the pattern pieces with the following information:
+    <ul>
+      <li>The foot and leg each pattern piece is for</li>
+      <li>Which part of the foot and leg each pattern piece is for (inner or outer)</li>
+      <li>
+        <p>“No seam allowance included”</p>
 
-&lt;h3 id=&quot;check-and-adjust-fit-before-sewing&quot;&gt;Check and adjust fit before sewing&lt;/h3&gt;
+        <p class="callout callout-info">For information about seam allowance, see <a href="https://en.wikipedia.org/wiki/Seam_allowance" target="_blank">Seam allowance on Wikipedia</a>.</p>
+      </li>
+      <li>
+        <p>Grainline with arrows pointing towards the cut edges</p>
 
-&lt;ol&gt;
-  &lt;li&gt;Pin fabric pieces together, wrong sides together.
-Try the boot cover on.&lt;/li&gt;
-  &lt;li&gt;Adjust the sewing line and pins as needed to achieve a good fit.&lt;/li&gt;
-  &lt;li&gt;Rub the fabric pencil or marker along the new sewing line &lt;strong&gt;on the wrong side of the fabric&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ol&gt;
+        <p class="callout callout-info">The grainline indicates the direction of stretch. For knit fabrics, this is the direction of greatest stretch. For woven fabrics, this is parallel to the selvedge, or the woven, non-cut edge of the fabric. For more information about grainlines, see <a href="https://www.thecuttingclass.com/grainlines/" target="_blank">A Basic Explanation of Grain Lines</a> by The Cutting Class.</p>
+      </li>
+    </ul>
+  </li>
+</ol>
 
-&lt;h3 id=&quot;pin-pieces-and-sew&quot;&gt;Pin pieces and sew&lt;/h3&gt;
+<h3 id="optional-create-a-paper-pattern"><a name="Optional-Create-a-paper-pattern"></a>Optional: Create a paper pattern</h3>
 
-&lt;ol&gt;
-  &lt;li&gt;Pin the fabric pieces together, right sides together.&lt;/li&gt;
-  &lt;li&gt;Using a zigzag stitch, sew from the back of the knee to the start of the heel along the sewing line.&lt;/li&gt;
-  &lt;li&gt;Press the seam flat.&lt;/li&gt;
-  &lt;li&gt;Open the seam and press the seam &lt;strong&gt;on the wrong side&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;Turn the boot cover right side out and carefully press. If your fabric is prone to shine, place a tea towel or press cloth between the iron and the fabric.&lt;/li&gt;
-&lt;/ol&gt;
+<ol>
+  <li>Create a more permanent pattern by completing the following steps:
+    <ol>
+      <li>Lay pattern pieces on large pieces of paper or light cardboard.</li>
+      <li>Trace around the pattern pieces, smoothing out any lines.</li>
+      <li>Use a ruler to add a seam allowance by drawing a line ½ inch (0.5 inch) around the outside of the pattern piece tracing.</li>
+      <li>Cut out the paper pattern pieces by cutting on the line drawn in step 1.3.</li>
+    </ol>
+  </li>
+</ol>
 
-&lt;h3 id=&quot;complete-finishing&quot;&gt;Complete finishing&lt;/h3&gt;
+<h3 id="prepare-and-cut-fabric"><a name="Prepare-and-cut-fabric"></a>Prepare and cut fabric</h3>
 
-&lt;ol&gt;
-  &lt;li&gt;Finish edges with a zigzag stitch on the sewing machine or with a serged edge using a serger. You may choose to zigzag the edges together or open. For more information on seam finishing, see &lt;a href=&quot;https://blog.megannielsen.com/2013/03/tutorial-six-seam-finishes-and-when-to-use-them/&quot;&gt;Tutorial: Six Seam Finishes &amp;amp; When to Use Them&lt;/a&gt; by Holly of Megan Nielsen.&lt;/li&gt;
-  &lt;li&gt;To finish the top of the boot cover, you can choose one of the following options:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Option 1:&lt;/strong&gt; Fold the top edge over ¼ inch, wrong sides together, then fold it over ¼ inch again. Pin. Topstitch close to the edge of the fold. Press.&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Option 2:&lt;/strong&gt; Sew other additional decoration (such as a strip of pleather, decorative edging, or a band of fabric) to the top edge of the boot cover, wrong sides together. Press, then press open &lt;strong&gt;on the wrong side&lt;/strong&gt;. Press &lt;strong&gt;on the right side&lt;/strong&gt;. Finish edge with a zigzag.&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Option 3:&lt;/strong&gt; Use Method 1 described in &lt;a href=&quot;https://sewmesomethingblog.com/how-to-sew-an-elastic-casing/&quot;&gt;How to Sew an Elastic Casing&lt;/a&gt; by Sew Me Something.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;To achieve a snug fit on the foot and fully cover your shoe or boot, complete the following steps:
-    &lt;ul&gt;
-      &lt;li&gt;Pin and stretch elastic around the seam allowance of the unfinished foot portion of the boot cover on the wrong side.&lt;/li&gt;
-      &lt;li&gt;Try on the boot cover with the shoe you intend to wear the boot cover with and check fit.&lt;/li&gt;
-      &lt;li&gt;Adjust the pins and elastic as needed.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Using a zigzag stitch, sew the elastic to the boot cover. 
-Check the fit.&lt;/li&gt;
-  &lt;li&gt;Sew a piece of elastic across the bottom of the foot portion where the ball of the foot goes to ensure a snug fit.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>{&quot;bio&quot;=&gt;&quot;I am a technical writer. I also write poetry and creative non-fiction.&quot;}</name></author><category term="hobbies" /><summary type="html">I recently visited a friend who was working on creating a part of one of her parade costumes. She was working on making boot covers and wanted to create a custom pattern from her measurements. I volunteered to help her with the patterning and ended up with a technical writing moment.</summary></entry><entry><title type="html">Technical Writing, GitHub, GitLab, and Automation</title><link href="http://localhost:4000/professional-development/2023/06/29/technical-writing-github-gitlab-and-automation.html" rel="alternate" type="text/html" title="Technical Writing, GitHub, GitLab, and Automation" /><published>2023-06-29T00:00:00-04:00</published><updated>2023-06-29T00:00:00-04:00</updated><id>http://localhost:4000/professional-development/2023/06/29/technical-writing-github-gitlab-and-automation</id><content type="html" xml:base="http://localhost:4000/professional-development/2023/06/29/technical-writing-github-gitlab-and-automation.html">&lt;p&gt;I recently attended a webinar about docs as code. The webinar covered using GitHub for documentation, GitHub Actions, and GitLab pipelines and LLMs. In this blog post, I’ll cover my thoughts about what was discussed in the webinar.&lt;/p&gt;
+<ol>
+  <li>Lay pattern pieces <a href="https://www.allpeoplequilt.com/how-to-quilt/quilting-basics/what-does-right-sidewrong-side-mean#:~:text=Right%20side%3A%20When%20instructions%20mention,wrong%22%20side%20of%20the%20fabric.">on the wrong side of the fabric</a> with the direction of greatest stretch parallel to the grainline. Do this so that the boot covers will stretch to fit your foot and leg.</li>
+  <li>Pin or weight the pattern pieces to keep them in place.
+Use a washable fabric marker or pencil to trace the pattern pieces on the fashion fabric. Add seam allowance if you skipped <a href="#Optional-Create-a-paper-pattern">Optional: Create a paper pattern</a>.</li>
+  <li>Optionally, draw the sewing line ½ in from the edge.</li>
+  <li>Cut out pattern pieces from the fashion fabric.</li>
+  <li>Use a washable fabric marker or pencil to label the fabric pattern pieces with the following information <strong>on the wrong side of the fabric</strong>:
+    <ul>
+      <li>The foot and leg each pattern piece is for</li>
+      <li>Which part of the foot and leg each pattern piece is for (inner or outer)</li>
+      <li>“½ inch seam allowance included”</li>
+      <li>Grainline with arrows pointing towards the cut edges</li>
+    </ul>
+  </li>
+</ol>
 
-&lt;h2 id=&quot;benefits-of-using-github-and-gitlab&quot;&gt;Benefits of using GitHub and GitLab&lt;/h2&gt;
+<h3 id="check-and-adjust-fit-before-sewing">Check and adjust fit before sewing</h3>
 
-&lt;p&gt;I have a website hosting my coding experiments on GitLab and GitLab Pages, and this site is hosted on GitHub and uses GitHub Pages. Suffice to say, I believe both sites are excellent options for hosting documentation websites, as well as other sites produced with static site generators. Some of the benefits to using GitHub/GitLab include (but are not limited to) the following:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The workflows are well-documented. Most commands are well-documented as well.&lt;/li&gt;
-  &lt;li&gt;Both sites allow multiple writers to work on the same files or different files at the same time.&lt;/li&gt;
-  &lt;li&gt;It is easy to see who changed what and when (and to roll back changes).&lt;/li&gt;
-  &lt;li&gt;The cost is reasonable.&lt;/li&gt;
-&lt;/ul&gt;
+<ol>
+  <li>Pin fabric pieces together, wrong sides together.
+Try the boot cover on.</li>
+  <li>Adjust the sewing line and pins as needed to achieve a good fit.</li>
+  <li>Rub the fabric pencil or marker along the new sewing line <strong>on the wrong side of the fabric</strong>.</li>
+</ol>
 
-&lt;h3 id=&quot;github-actions-gitlab-pipelines-and-efficiency&quot;&gt;GitHub Actions, GitLab pipelines, and efficiency&lt;/h3&gt;
+<h3 id="pin-pieces-and-sew">Pin pieces and sew</h3>
 
-&lt;p&gt;What interested me most about the webinar was exploring GitHub Actions in a documentation context.&lt;/p&gt;
+<ol>
+  <li>Pin the fabric pieces together, right sides together.</li>
+  <li>Using a zigzag stitch, sew from the back of the knee to the start of the heel along the sewing line.</li>
+  <li>Press the seam flat.</li>
+  <li>Open the seam and press the seam <strong>on the wrong side</strong>.</li>
+  <li>Turn the boot cover right side out and carefully press. If your fabric is prone to shine, place a tea towel or press cloth between the iron and the fabric.</li>
+</ol>
 
-&lt;p&gt;Writing the actual documentation content requires a lot of effort. At the very least, it involves the following activities:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Gathering and validating information&lt;/li&gt;
-  &lt;li&gt;Writing&lt;/li&gt;
-  &lt;li&gt;Formatting&lt;/li&gt;
-  &lt;li&gt;Revising&lt;/li&gt;
-  &lt;li&gt;Editing&lt;/li&gt;
-  &lt;li&gt;Proofreading&lt;/li&gt;
-  &lt;li&gt;Creating and refining any diagrams or other images
-All of these tasks take time, mental effort, and skill.&lt;/li&gt;
-&lt;/ul&gt;
+<h3 id="complete-finishing">Complete finishing</h3>
 
-&lt;p&gt;Actually publishing the content and ushering it through an approval workflow requires more time and effort. In addition, managing timelines and due dates and tracking approvals requires project management skills–but that’s another post entirely.&lt;/p&gt;
+<ol>
+  <li>Finish edges with a zigzag stitch on the sewing machine or with a serged edge using a serger. You may choose to zigzag the edges together or open. For more information on seam finishing, see <a href="https://blog.megannielsen.com/2013/03/tutorial-six-seam-finishes-and-when-to-use-them/">Tutorial: Six Seam Finishes &amp; When to Use Them</a> by Holly of Megan Nielsen.</li>
+  <li>To finish the top of the boot cover, you can choose one of the following options:
+    <ul>
+      <li><strong>Option 1:</strong> Fold the top edge over ¼ inch, wrong sides together, then fold it over ¼ inch again. Pin. Topstitch close to the edge of the fold. Press.</li>
+      <li><strong>Option 2:</strong> Sew other additional decoration (such as a strip of pleather, decorative edging, or a band of fabric) to the top edge of the boot cover, wrong sides together. Press, then press open <strong>on the wrong side</strong>. Press <strong>on the right side</strong>. Finish edge with a zigzag.</li>
+      <li><strong>Option 3:</strong> Use Method 1 described in <a href="https://sewmesomethingblog.com/how-to-sew-an-elastic-casing/">How to Sew an Elastic Casing</a> by Sew Me Something.</li>
+    </ul>
+  </li>
+  <li>To achieve a snug fit on the foot and fully cover your shoe or boot, complete the following steps:
+    <ul>
+      <li>Pin and stretch elastic around the seam allowance of the unfinished foot portion of the boot cover on the wrong side.</li>
+      <li>Try on the boot cover with the shoe you intend to wear the boot cover with and check fit.</li>
+      <li>Adjust the pins and elastic as needed.</li>
+    </ul>
+  </li>
+  <li>Using a zigzag stitch, sew the elastic to the boot cover. 
+Check the fit.</li>
+  <li>Sew a piece of elastic across the bottom of the foot portion where the ball of the foot goes to ensure a snug fit.</li>
+</ol>]]></content><author><name>Angelle Leger</name></author><category term="hobbies" /><summary type="html"><![CDATA[I recently visited a friend who was working on creating a part of one of her parade costumes. She was working on making boot covers and wanted to create a custom pattern from her measurements. I volunteered to help her with the patterning and ended up with a technical writing moment.]]></summary></entry><entry><title type="html">Technical Writing, GitHub, GitLab, and Automation</title><link href="http://localhost:4000/professional-development/2023/06/29/technical-writing-github-gitlab-and-automation.html" rel="alternate" type="text/html" title="Technical Writing, GitHub, GitLab, and Automation" /><published>2023-06-29T00:00:00-04:00</published><updated>2023-06-29T00:00:00-04:00</updated><id>http://localhost:4000/professional-development/2023/06/29/technical-writing-github-gitlab-and-automation</id><content type="html" xml:base="http://localhost:4000/professional-development/2023/06/29/technical-writing-github-gitlab-and-automation.html"><![CDATA[<p>I recently attended a webinar about docs as code. The webinar covered using GitHub for documentation, GitHub Actions, and GitLab pipelines and LLMs. In this blog post, I’ll cover my thoughts about what was discussed in the webinar.</p>
 
-&lt;p&gt;To get the approved and formatted content from GitHub or GitLab published on a website, technical writers must execute a series of commands or steps. Using GitHub Actions or GitLab CI/CD pipelines to automate any of the following tasks would save time and/or improve documentation quality:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Check formatting for correctness&lt;/li&gt;
-  &lt;li&gt;Spellcheck content (though no spell checker catches everything–it’s a nice-to-have backup option)&lt;/li&gt;
-  &lt;li&gt;Create merge or pull requests&lt;/li&gt;
-  &lt;li&gt;Build pages&lt;/li&gt;
-  &lt;li&gt;Deploy pages&lt;/li&gt;
-  &lt;li&gt;Send notification messages to a chat app that can receive curl commands, such as Slack or Teams (see &lt;a href=&quot;https://docs.gitlab.com/ee/ci/jobs/job_control.html&quot;&gt;Choose when jobs run&lt;/a&gt;, &lt;a href=&quot;https://api.slack.com/tutorials/tracks/posting-messages-with-curl&quot;&gt;Posting messages using curl - Slack&lt;/a&gt;, and &lt;a href=&quot;https://learn.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/connectors-using?tabs=cURL&quot;&gt;Create and send messages - Microsoft Teams&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;And more!&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="benefits-of-using-github-and-gitlab">Benefits of using GitHub and GitLab</h2>
 
-&lt;p&gt;GitHub Actions workflows execute based on what is defined within &lt;a href=&quot;https://docs.github.com/en/actions/using-workflows/about-workflows&quot;&gt;a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.yml&lt;/code&gt; file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.github/workflows&lt;/code&gt; directory&lt;/a&gt; in the root of the repository, while GitLab CI/CD pipelines execute based on what is defined in the &lt;a href=&quot;https://docs.gitlab.com/ee/ci/yaml/gitlab_ci_yaml.html&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.gitlab-ci.yml&lt;/code&gt; file&lt;/a&gt; hosted in the root of the repository. In either case, the YAML file may be customized to reflect and support a specific team’s workflow. Saving time on automatable tasks contributes to the team’s efficiency, which ultimately contributes to the efficiency of the engineering org as a whole.&lt;/p&gt;
+<p>I have a website hosting my coding experiments on GitLab and GitLab Pages, and this site is hosted on GitHub and uses GitHub Pages. Suffice to say, I believe both sites are excellent options for hosting documentation websites, as well as other sites produced with static site generators. Some of the benefits to using GitHub/GitLab include (but are not limited to) the following:</p>
+<ul>
+  <li>The workflows are well-documented. Most commands are well-documented as well.</li>
+  <li>Both sites allow multiple writers to work on the same files or different files at the same time.</li>
+  <li>It is easy to see who changed what and when (and to roll back changes).</li>
+  <li>The cost is reasonable.</li>
+</ul>
 
-&lt;h2 id=&quot;technical-writing-and-llms&quot;&gt;Technical writing and LLMs&lt;/h2&gt;
+<h3 id="github-actions-gitlab-pipelines-and-efficiency">GitHub Actions, GitLab pipelines, and efficiency</h3>
 
-&lt;p&gt;Since technical writing is about documenting products and topics that haven’t yet been documented (or don’t have updated documentation), an LLM that pulls from existing internet content is not particularly useful in generating documentation about something new or updated. Technical writing jobs won’t be overtaken by LLMs and AI tools any time soon.&lt;/p&gt;
+<p>What interested me most about the webinar was exploring GitHub Actions in a documentation context.</p>
 
-&lt;p&gt;One thing LLMs could be useful for is generating templates for documentation using correct formatting for section headings and metadata sections. However, I feel that LLMs and AI tools operate in an ethical gray area. I wouldn’t want to use it for my work and I would urge companies to not use it to generate content and use it as it is.&lt;/p&gt;
+<p>Writing the actual documentation content requires a lot of effort. At the very least, it involves the following activities:</p>
+<ul>
+  <li>Gathering and validating information</li>
+  <li>Writing</li>
+  <li>Formatting</li>
+  <li>Revising</li>
+  <li>Editing</li>
+  <li>Proofreading</li>
+  <li>Creating and refining any diagrams or other images
+All of these tasks take time, mental effort, and skill.</li>
+</ul>
 
-&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+<p>Actually publishing the content and ushering it through an approval workflow requires more time and effort. In addition, managing timelines and due dates and tracking approvals requires project management skills–but that’s another post entirely.</p>
 
-&lt;p&gt;In summary, my thoughts are that leveraging automation to take care of non-knowledge-based tasks would increase a technical writing team’s efficiency, support the team’s workflow, and allow the team more time to focus on documentation and information architecture.&lt;/p&gt;</content><author><name>{&quot;bio&quot;=&gt;&quot;I am a technical writer. I also write poetry and creative non-fiction.&quot;}</name></author><category term="professional-development" /><summary type="html">I recently attended a webinar about docs as code. The webinar covered using GitHub for documentation, GitHub Actions, and GitLab pipelines and LLMs. In this blog post, I’ll cover my thoughts about what was discussed in the webinar.</summary></entry><entry><title type="html">Always Learning: Website Migration</title><link href="http://localhost:4000/professional-development/2023/01/01/website-migration.html" rel="alternate" type="text/html" title="Always Learning: Website Migration" /><published>2023-01-01T00:00:00-05:00</published><updated>2023-01-01T00:00:00-05:00</updated><id>http://localhost:4000/professional-development/2023/01/01/website-migration</id><content type="html" xml:base="http://localhost:4000/professional-development/2023/01/01/website-migration.html">&lt;p&gt;The best way to learn how to do something is to try to do it.&lt;/p&gt;
+<p>To get the approved and formatted content from GitHub or GitLab published on a website, technical writers must execute a series of commands or steps. Using GitHub Actions or GitLab CI/CD pipelines to automate any of the following tasks would save time and/or improve documentation quality:</p>
+<ul>
+  <li>Check formatting for correctness</li>
+  <li>Spellcheck content (though no spell checker catches everything–it’s a nice-to-have backup option)</li>
+  <li>Create merge or pull requests</li>
+  <li>Build pages</li>
+  <li>Deploy pages</li>
+  <li>Send notification messages to a chat app that can receive curl commands, such as Slack or Teams (see <a href="https://docs.gitlab.com/ee/ci/jobs/job_control.html">Choose when jobs run</a>, <a href="https://api.slack.com/tutorials/tracks/posting-messages-with-curl">Posting messages using curl - Slack</a>, and <a href="https://learn.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/connectors-using?tabs=cURL">Create and send messages - Microsoft Teams</a>)</li>
+  <li>And more!</li>
+</ul>
 
-&lt;p&gt;I decided recently that I wanted to learn more about different static site generators, starting with &lt;a href=&quot;https://jekyllrb.com/docs/&quot;&gt;Jekyll&lt;/a&gt;, a popular SSG. I selected &lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes&quot;&gt;the Minimal Mistakes theme&lt;/a&gt; and &lt;a href=&quot;https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages&quot;&gt;Github Pages&lt;/a&gt; for hosting and deployment.&lt;/p&gt;
+<p>GitHub Actions workflows execute based on what is defined within <a href="https://docs.github.com/en/actions/using-workflows/about-workflows">a <code class="language-plaintext highlighter-rouge">.yml</code> file in the <code class="language-plaintext highlighter-rouge">.github/workflows</code> directory</a> in the root of the repository, while GitLab CI/CD pipelines execute based on what is defined in the <a href="https://docs.gitlab.com/ee/ci/yaml/gitlab_ci_yaml.html"><code class="language-plaintext highlighter-rouge">.gitlab-ci.yml</code> file</a> hosted in the root of the repository. In either case, the YAML file may be customized to reflect and support a specific team’s workflow. Saving time on automatable tasks contributes to the team’s efficiency, which ultimately contributes to the efficiency of the engineering org as a whole.</p>
 
-&lt;p&gt;I exported my existing content from Wordpress to an XML file, using the existing export tool in Wordpress. Then, I used &lt;a href=&quot;https://github.com/lonekorean/wordpress-export-to-markdown&quot;&gt;Wordpress Export to Markdown on the command line&lt;/a&gt; to convert the XML content to separate Markdown files with YAML headers formatted appropriately for Jekyll to process the content.&lt;/p&gt;
+<h2 id="technical-writing-and-llms">Technical writing and LLMs</h2>
 
-&lt;p&gt;I followed the instructions in &lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/&quot;&gt;the Minimal Mistakes Quick Start Guide&lt;/a&gt; to configure the top nav bar and to add front matter configurations to the main config file.&lt;/p&gt;
+<p>Since technical writing is about documenting products and topics that haven’t yet been documented (or don’t have updated documentation), an LLM that pulls from existing internet content is not particularly useful in generating documentation about something new or updated. Technical writing jobs won’t be overtaken by LLMs and AI tools any time soon.</p>
 
-&lt;p&gt;I will likely add different collections (I have one for poems, now), search, and a contact page later. I might add a CICD pipeline with tests. Once I am certain I have all of the content moved over from the Wordpress site, I will likely change the custom domain to this content and shut down the Wordpress site.&lt;/p&gt;
+<p>One thing LLMs could be useful for is generating templates for documentation using correct formatting for section headings and metadata sections. However, I feel that LLMs and AI tools operate in an ethical gray area. I wouldn’t want to use it for my work and I would urge companies to not use it to generate content and use it as it is.</p>
 
-&lt;p&gt;Why am I doing this? I have multiple reasons:&lt;/p&gt;
+<h2 id="summary">Summary</h2>
 
-&lt;ul&gt;
-  &lt;li&gt;It seems silly to pay for site hosting when I rarely update my site–and when I do, it’s usually posts, not interactive content.&lt;/li&gt;
-  &lt;li&gt;I wanted to see how site migration worked in this particular circumstance (Wordpress -&amp;gt; GitHub Pages using Jekyll engine).&lt;/li&gt;
-  &lt;li&gt;
-    &lt;h2 id=&quot;i-want-to-test-out-different-kinds-of-plugins-and-functionalities-and-be-able-to-see-how-it-all-works-wordpress-with-a-theme-obfuscates-a-lot-of-this&quot;&gt;I want to test out different kinds of plugins and functionalities and be able to see how it all works (Wordpress with a theme obfuscates a lot of this).&lt;/h2&gt;
-    &lt;p&gt;layout: single
+<p>In summary, my thoughts are that leveraging automation to take care of non-knowledge-based tasks would increase a technical writing team’s efficiency, support the team’s workflow, and allow the team more time to focus on documentation and information architecture.</p>]]></content><author><name>Angelle Leger</name></author><category term="professional-development" /><summary type="html"><![CDATA[I recently attended a webinar about docs as code. The webinar covered using GitHub for documentation, GitHub Actions, and GitLab pipelines and LLMs. In this blog post, I’ll cover my thoughts about what was discussed in the webinar.]]></summary></entry><entry><title type="html">Always Learning: Website Migration</title><link href="http://localhost:4000/professional-development/2023/01/01/website-migration.html" rel="alternate" type="text/html" title="Always Learning: Website Migration" /><published>2023-01-01T00:00:00-04:00</published><updated>2023-01-01T00:00:00-04:00</updated><id>http://localhost:4000/professional-development/2023/01/01/website-migration</id><content type="html" xml:base="http://localhost:4000/professional-development/2023/01/01/website-migration.html"><![CDATA[<p>The best way to learn how to do something is to try to do it.</p>
+
+<p>I decided recently that I wanted to learn more about different static site generators, starting with <a href="https://jekyllrb.com/docs/">Jekyll</a>, a popular SSG. I selected <a href="https://github.com/mmistakes/minimal-mistakes">the Minimal Mistakes theme</a> and <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">Github Pages</a> for hosting and deployment.</p>
+
+<p>I exported my existing content from Wordpress to an XML file, using the existing export tool in Wordpress. Then, I used <a href="https://github.com/lonekorean/wordpress-export-to-markdown">Wordpress Export to Markdown on the command line</a> to convert the XML content to separate Markdown files with YAML headers formatted appropriately for Jekyll to process the content.</p>
+
+<p>I followed the instructions in <a href="https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/">the Minimal Mistakes Quick Start Guide</a> to configure the top nav bar and to add front matter configurations to the main config file.</p>
+
+<p>I will likely add different collections (I have one for poems, now), search, and a contact page later. I might add a CICD pipeline with tests. Once I am certain I have all of the content moved over from the Wordpress site, I will likely change the custom domain to this content and shut down the Wordpress site.</p>
+
+<p>Why am I doing this? I have multiple reasons:</p>
+
+<ul>
+  <li>It seems silly to pay for site hosting when I rarely update my site–and when I do, it’s usually posts, not interactive content.</li>
+  <li>I wanted to see how site migration worked in this particular circumstance (Wordpress -&gt; GitHub Pages using Jekyll engine).</li>
+  <li>
+    <h2 id="i-want-to-test-out-different-kinds-of-plugins-and-functionalities-and-be-able-to-see-how-it-all-works-wordpress-with-a-theme-obfuscates-a-lot-of-this">I want to test out different kinds of plugins and functionalities and be able to see how it all works (Wordpress with a theme obfuscates a lot of this).</h2>
+    <p>layout: single
 title: “Always Learning: Website Migration”
 date: “2023-01-01”
-categories:&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;h2 id=&quot;professional-development&quot;&gt;“professional-development”&lt;/h2&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+categories:</p>
+    <ul>
+      <li>
+        <h2 id="professional-development">“professional-development”</h2>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-&lt;p&gt;The best way to learn how to do something is to try to do it.&lt;/p&gt;
+<p>The best way to learn how to do something is to try to do it.</p>
 
-&lt;p&gt;I decided recently that I wanted to learn more about different static site generators, starting with &lt;a href=&quot;https://jekyllrb.com/docs/&quot;&gt;Jekyll&lt;/a&gt;, a popular SSG. I selected &lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes&quot;&gt;the Minimal Mistakes theme&lt;/a&gt; and &lt;a href=&quot;https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages&quot;&gt;Github Pages&lt;/a&gt; for hosting and deployment.&lt;/p&gt;
+<p>I decided recently that I wanted to learn more about different static site generators, starting with <a href="https://jekyllrb.com/docs/">Jekyll</a>, a popular SSG. I selected <a href="https://github.com/mmistakes/minimal-mistakes">the Minimal Mistakes theme</a> and <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">Github Pages</a> for hosting and deployment.</p>
 
-&lt;p&gt;I exported my existing content from Wordpress to an XML file, using the existing export tool in Wordpress. Then, I used &lt;a href=&quot;https://github.com/lonekorean/wordpress-export-to-markdown&quot;&gt;Wordpress Export to Markdown on the command line&lt;/a&gt; to convert the XML content to separate Markdown files with YAML headers formatted appropriately for Jekyll to process the content.&lt;/p&gt;
+<p>I exported my existing content from Wordpress to an XML file, using the existing export tool in Wordpress. Then, I used <a href="https://github.com/lonekorean/wordpress-export-to-markdown">Wordpress Export to Markdown on the command line</a> to convert the XML content to separate Markdown files with YAML headers formatted appropriately for Jekyll to process the content.</p>
 
-&lt;p&gt;I followed the instructions in &lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/&quot;&gt;the Minimal Mistakes Quick Start Guide&lt;/a&gt; to configure the top nav bar and to add front matter configurations to the main config file.&lt;/p&gt;
+<p>I followed the instructions in <a href="https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/">the Minimal Mistakes Quick Start Guide</a> to configure the top nav bar and to add front matter configurations to the main config file.</p>
 
-&lt;p&gt;I will likely add different collections (I have one for poems, now), search, and a contact page later. I might add a CICD pipeline with tests. Once I am certain I have all of the content moved over from the Wordpress site, I will likely change the custom domain to this content and shut down the Wordpress site.&lt;/p&gt;
+<p>I will likely add different collections (I have one for poems, now), search, and a contact page later. I might add a CICD pipeline with tests. Once I am certain I have all of the content moved over from the Wordpress site, I will likely change the custom domain to this content and shut down the Wordpress site.</p>
 
-&lt;p&gt;Why am I doing this? I have multiple reasons:&lt;/p&gt;
+<p>Why am I doing this? I have multiple reasons:</p>
 
-&lt;ul&gt;
-  &lt;li&gt;It seems silly to pay for site hosting when I rarely update my site–and when I do, it’s usually posts, not interactive content.&lt;/li&gt;
-  &lt;li&gt;I wanted to see how site migration worked in this particular circumstance (Wordpress -&amp;gt; GitHub Pages using Jekyll engine).&lt;/li&gt;
-  &lt;li&gt;I want to test out different kinds of plugins and functionalities and be able to see how it all works (Wordpress with a theme obfuscates a lot of this).&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li>It seems silly to pay for site hosting when I rarely update my site–and when I do, it’s usually posts, not interactive content.</li>
+  <li>I wanted to see how site migration worked in this particular circumstance (Wordpress -&gt; GitHub Pages using Jekyll engine).</li>
+  <li>I want to test out different kinds of plugins and functionalities and be able to see how it all works (Wordpress with a theme obfuscates a lot of this).</li>
+</ul>
 
-&lt;p&gt;Check out my content at https://github.com/Angelles/angelles.github.io.
-Check out my content at https://github.com/Angelles/angelles.github.io.&lt;/p&gt;</content><author><name>{&quot;bio&quot;=&gt;&quot;I am a technical writer. I also write poetry and creative non-fiction.&quot;}</name></author><category term="professional-development" /><summary type="html">The best way to learn how to do something is to try to do it.</summary></entry><entry><title type="html">Poem: Be Sweet</title><link href="http://localhost:4000/2022/04/16/poem-be-sweet.html" rel="alternate" type="text/html" title="Poem: Be Sweet" /><published>2022-04-16T00:00:00-04:00</published><updated>2022-04-16T00:00:00-04:00</updated><id>http://localhost:4000/2022/04/16/poem-be-sweet</id><content type="html" xml:base="http://localhost:4000/2022/04/16/poem-be-sweet.html">&lt;p&gt;Be Sweet&lt;/p&gt;
+<p>Check out my content at https://github.com/Angelles/angelles.github.io.
+Check out my content at https://github.com/Angelles/angelles.github.io.</p>]]></content><author><name>Angelle Leger</name></author><category term="professional-development" /><summary type="html"><![CDATA[The best way to learn how to do something is to try to do it.]]></summary></entry><entry><title type="html">Poem: Be Sweet</title><link href="http://localhost:4000/2022/04/16/poem-be-sweet.html" rel="alternate" type="text/html" title="Poem: Be Sweet" /><published>2022-04-16T00:00:00-04:00</published><updated>2022-04-16T00:00:00-04:00</updated><id>http://localhost:4000/2022/04/16/poem-be-sweet</id><content type="html" xml:base="http://localhost:4000/2022/04/16/poem-be-sweet.html"><![CDATA[<p>Be Sweet</p>
 
-&lt;p&gt;Be sweet, they said.&lt;br /&gt;
-If I am myself,&lt;br /&gt;
-The sand grit your teeth crunch against,&lt;br /&gt;
-what happens then?&lt;/p&gt;</content><author><name>{&quot;bio&quot;=&gt;&quot;I am a technical writer. I also write poetry and creative non-fiction.&quot;}</name></author><category term="poetry" /><summary type="html">Be Sweet</summary></entry><entry><title type="html">Always Learning: Java</title><link href="http://localhost:4000/professional-development/2021/11/12/always-learning-java.html" rel="alternate" type="text/html" title="Always Learning: Java" /><published>2021-11-12T00:00:00-05:00</published><updated>2021-11-12T00:00:00-05:00</updated><id>http://localhost:4000/professional-development/2021/11/12/always-learning-java</id><content type="html" xml:base="http://localhost:4000/professional-development/2021/11/12/always-learning-java.html">&lt;p&gt;I’m currently working on learning Java. I want to be the best technical writer I can be. A few of the ways I think I can be more effective include:&lt;/p&gt;
+<p>Be sweet, they said.<br />
+If I am myself,<br />
+The sand grit your teeth crunch against,<br />
+what happens then?</p>]]></content><author><name>Angelle Leger</name></author><category term="poetry" /><summary type="html"><![CDATA[Be Sweet]]></summary></entry><entry><title type="html">Always Learning: Java</title><link href="http://localhost:4000/professional-development/2021/11/12/always-learning-java.html" rel="alternate" type="text/html" title="Always Learning: Java" /><published>2021-11-12T00:00:00-04:00</published><updated>2021-11-12T00:00:00-04:00</updated><id>http://localhost:4000/professional-development/2021/11/12/always-learning-java</id><content type="html" xml:base="http://localhost:4000/professional-development/2021/11/12/always-learning-java.html"><![CDATA[<p>I’m currently working on learning Java. I want to be the best technical writer I can be. A few of the ways I think I can be more effective include:</p>
 
-&lt;ul&gt;
-  &lt;li&gt;Being able to read code as easily as I can read a passage written in English&lt;/li&gt;
-  &lt;li&gt;Being able to understand the underlying logic and patterns of a commonly-used language, so that I can apply that same understanding to new languages as needed&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li>Being able to read code as easily as I can read a passage written in English</li>
+  <li>Being able to understand the underlying logic and patterns of a commonly-used language, so that I can apply that same understanding to new languages as needed</li>
+</ul>
 
-&lt;p&gt;I welcome information about learning resources and coding/technology groups, especially those for BIPOC or women/femme folks.&lt;/p&gt;</content><author><name>{&quot;bio&quot;=&gt;&quot;I am a technical writer. I also write poetry and creative non-fiction.&quot;}</name></author><category term="professional-development" /><summary type="html">I’m currently working on learning Java. I want to be the best technical writer I can be. A few of the ways I think I can be more effective include:</summary></entry><entry><title type="html">Leadership: Encouragement and Enablement</title><link href="http://localhost:4000/leadership/2021/11/07/leadership-encouragement-and-enablement.html" rel="alternate" type="text/html" title="Leadership: Encouragement and Enablement" /><published>2021-11-07T00:00:00-04:00</published><updated>2021-11-07T00:00:00-04:00</updated><id>http://localhost:4000/leadership/2021/11/07/leadership-encouragement-and-enablement</id><content type="html" xml:base="http://localhost:4000/leadership/2021/11/07/leadership-encouragement-and-enablement.html">&lt;p&gt;I believe solid, effective leadership must include encouragement, enablement, and timely, frequent feedback.&lt;/p&gt;
+<p>I welcome information about learning resources and coding/technology groups, especially those for BIPOC or women/femme folks.</p>]]></content><author><name>Angelle Leger</name></author><category term="professional-development" /><summary type="html"><![CDATA[I’m currently working on learning Java. I want to be the best technical writer I can be. A few of the ways I think I can be more effective include:]]></summary></entry><entry><title type="html">Leadership: Encouragement and Enablement</title><link href="http://localhost:4000/leadership/2021/11/07/leadership-encouragement-and-enablement.html" rel="alternate" type="text/html" title="Leadership: Encouragement and Enablement" /><published>2021-11-07T00:00:00-04:00</published><updated>2021-11-07T00:00:00-04:00</updated><id>http://localhost:4000/leadership/2021/11/07/leadership-encouragement-and-enablement</id><content type="html" xml:base="http://localhost:4000/leadership/2021/11/07/leadership-encouragement-and-enablement.html"><![CDATA[<p>I believe solid, effective leadership must include encouragement, enablement, and timely, frequent feedback.</p>
 
-&lt;h2 id=&quot;create-an-open-encouraging-environment&quot;&gt;Create an open, encouraging environment.&lt;/h2&gt;
+<h2 id="create-an-open-encouraging-environment">Create an open, encouraging environment.</h2>
 
-&lt;ul&gt;
-  &lt;li&gt;Help your team members to feel comfortable speaking up and suggesting solutions and alternatives.&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li>Help your team members to feel comfortable speaking up and suggesting solutions and alternatives.</li>
+</ul>
 
-&lt;h2 id=&quot;enable-your-team&quot;&gt;Enable your team.&lt;/h2&gt;
+<h2 id="enable-your-team">Enable your team.</h2>
 
-&lt;ul&gt;
-  &lt;li&gt;Give your team members access to what they need to succeed, such as training, software, or time to discuss projects.&lt;/li&gt;
-  &lt;li&gt;Let them know they can always come to you with ideas, proposals, concerns, or questions.&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li>Give your team members access to what they need to succeed, such as training, software, or time to discuss projects.</li>
+  <li>Let them know they can always come to you with ideas, proposals, concerns, or questions.</li>
+</ul>
 
-&lt;h2 id=&quot;provide-timely-frequent-feedback&quot;&gt;Provide timely, frequent feedback.&lt;/h2&gt;
+<h2 id="provide-timely-frequent-feedback">Provide timely, frequent feedback.</h2>
 
-&lt;ul&gt;
-  &lt;li&gt;Don’t hold back with the positive feedback when team members do things that work well and have a positive impact.&lt;/li&gt;
-  &lt;li&gt;If you need to deliver negative feedback:
-    &lt;ul&gt;
-      &lt;li&gt;Tell the team members as soon as possible after the event that generated the negative feedback.&lt;/li&gt;
-      &lt;li&gt;Let them know the reason for the feedback and concrete, specific steps they can take to improve.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li>Don’t hold back with the positive feedback when team members do things that work well and have a positive impact.</li>
+  <li>If you need to deliver negative feedback:
+    <ul>
+      <li>Tell the team members as soon as possible after the event that generated the negative feedback.</li>
+      <li>Let them know the reason for the feedback and concrete, specific steps they can take to improve.</li>
+    </ul>
+  </li>
+</ul>
 
-&lt;p&gt;I’ve found that working with leaders who provide these things have helped me to be my best, most productive work self. When I’ve been in leadership-adjacent positions, I’ve tried to provide these things for my teammates. I’m sure my thoughts on effective leadership will evolve as I work with different people and experience different leadership styles.&lt;/p&gt;</content><author><name>{&quot;bio&quot;=&gt;&quot;I am a technical writer. I also write poetry and creative non-fiction.&quot;}</name></author><category term="leadership" /><summary type="html">I believe solid, effective leadership must include encouragement, enablement, and timely, frequent feedback.</summary></entry><entry><title type="html">Always Learning: User Experience Design</title><link href="http://localhost:4000/2020/01/04/always-learning-user-experience-design.html" rel="alternate" type="text/html" title="Always Learning: User Experience Design" /><published>2020-01-04T00:00:00-05:00</published><updated>2020-01-04T00:00:00-05:00</updated><id>http://localhost:4000/2020/01/04/always-learning-user-experience-design</id><content type="html" xml:base="http://localhost:4000/2020/01/04/always-learning-user-experience-design.html">&lt;p&gt;I’ve recently developed an interest in learning more about user experience (UX) design. I decided to start by taking an online, non-credit introductory course (&lt;a href=&quot;https://www.coursera.org/account/accomplishments/verify/P5DVJFXYHSYF?utm_medium=certificate&amp;amp;utm_source=link&amp;amp;utm_campaign=copybutton_certificate&amp;amp;utm_term=long&quot;&gt;link to certificate&lt;/a&gt;).  I think I’ll read a book about the topic next. I welcome any book and online resource recommendations!&lt;/p&gt;</content><author><name>{&quot;bio&quot;=&gt;&quot;I am a technical writer. I also write poetry and creative non-fiction.&quot;}</name></author><category term="professional-development" /><summary type="html">I’ve recently developed an interest in learning more about user experience (UX) design. I decided to start by taking an online, non-credit introductory course (link to certificate).  I think I’ll read a book about the topic next. I welcome any book and online resource recommendations!</summary></entry><entry><title type="html">Poem: Home Is a Place Where Everyone Calls You Baby</title><link href="http://localhost:4000/2019/12/17/poem-home-is-a-place-where-everyone-calls-you-baby.html" rel="alternate" type="text/html" title="Poem: Home Is a Place Where Everyone Calls You Baby" /><published>2019-12-17T00:00:00-05:00</published><updated>2019-12-17T00:00:00-05:00</updated><id>http://localhost:4000/2019/12/17/poem-home-is-a-place-where-everyone-calls-you-baby</id><content type="html" xml:base="http://localhost:4000/2019/12/17/poem-home-is-a-place-where-everyone-calls-you-baby.html">&lt;p&gt;I recently wrote this poem and wanted to share it here, rather than submitting it for publication elsewhere. I hope you enjoy it!&lt;/p&gt;
+<p>I’ve found that working with leaders who provide these things have helped me to be my best, most productive work self. When I’ve been in leadership-adjacent positions, I’ve tried to provide these things for my teammates. I’m sure my thoughts on effective leadership will evolve as I work with different people and experience different leadership styles.</p>]]></content><author><name>Angelle Leger</name></author><category term="leadership" /><summary type="html"><![CDATA[I believe solid, effective leadership must include encouragement, enablement, and timely, frequent feedback.]]></summary></entry><entry><title type="html">Always Learning: User Experience Design</title><link href="http://localhost:4000/2020/01/04/always-learning-user-experience-design.html" rel="alternate" type="text/html" title="Always Learning: User Experience Design" /><published>2020-01-04T00:00:00-04:00</published><updated>2020-01-04T00:00:00-04:00</updated><id>http://localhost:4000/2020/01/04/always-learning-user-experience-design</id><content type="html" xml:base="http://localhost:4000/2020/01/04/always-learning-user-experience-design.html"><![CDATA[<p>I’ve recently developed an interest in learning more about user experience (UX) design. I decided to start by taking an online, non-credit introductory course (<a href="https://www.coursera.org/account/accomplishments/verify/P5DVJFXYHSYF?utm_medium=certificate&amp;utm_source=link&amp;utm_campaign=copybutton_certificate&amp;utm_term=long">link to certificate</a>).  I think I’ll read a book about the topic next. I welcome any book and online resource recommendations!</p>]]></content><author><name>Angelle Leger</name></author><category term="professional-development" /><summary type="html"><![CDATA[I’ve recently developed an interest in learning more about user experience (UX) design. I decided to start by taking an online, non-credit introductory course (link to certificate).  I think I’ll read a book about the topic next. I welcome any book and online resource recommendations!]]></summary></entry><entry><title type="html">Poem: Home Is a Place Where Everyone Calls You Baby</title><link href="http://localhost:4000/2019/12/17/poem-home-is-a-place-where-everyone-calls-you-baby.html" rel="alternate" type="text/html" title="Poem: Home Is a Place Where Everyone Calls You Baby" /><published>2019-12-17T00:00:00-04:00</published><updated>2019-12-17T00:00:00-04:00</updated><id>http://localhost:4000/2019/12/17/poem-home-is-a-place-where-everyone-calls-you-baby</id><content type="html" xml:base="http://localhost:4000/2019/12/17/poem-home-is-a-place-where-everyone-calls-you-baby.html"><![CDATA[<p>I recently wrote this poem and wanted to share it here, rather than submitting it for publication elsewhere. I hope you enjoy it!</p>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;p&gt;Angelle Leger&lt;/p&gt;
+<p>Angelle Leger</p>
 
-&lt;p&gt;&lt;strong&gt;Home Is a Place Where Everyone Calls You Baby&lt;/strong&gt;&lt;/p&gt;
+<p><strong>Home Is a Place Where Everyone Calls You Baby</strong></p>
 
-&lt;p&gt;Something soft settles inside of me when I walk into my old drugstore, When I greet old women at a community function, their face powder dusty on my lips As I greet them with cheek kisses, when they say, “How you doing, baby,” The syllables drawn-out, deep with age and heavy with the ghosts of cigarettes, Warm as an electric blanket on my lap as you shiver in a shotgun house, Wind blowing through the spaces around the windows and the cracks around the doors. No one can say “baby” like an old New Orleans woman. Ba-by!&lt;/p&gt;
+<p>Something soft settles inside of me when I walk into my old drugstore, When I greet old women at a community function, their face powder dusty on my lips As I greet them with cheek kisses, when they say, “How you doing, baby,” The syllables drawn-out, deep with age and heavy with the ghosts of cigarettes, Warm as an electric blanket on my lap as you shiver in a shotgun house, Wind blowing through the spaces around the windows and the cracks around the doors. No one can say “baby” like an old New Orleans woman. Ba-by!</p>
 
-&lt;p&gt;When I was a child, almost any place could be home, Anywhere where my grandmother was. We would be running them streets. Every summer, before the afternoon showers, we’d make groceries, Clean the used bookstores out, I’m telling you. Then the rain would come, And it would be time to put on our matching dusters and settle down, A cup of milky tea in one hand and a book with soft, browning pages in the other. This is one of the things I picture when I think of home: My grandmother laid out, all the way asleep on top of her book and her eyeglasses.&lt;/p&gt;
+<p>When I was a child, almost any place could be home, Anywhere where my grandmother was. We would be running them streets. Every summer, before the afternoon showers, we’d make groceries, Clean the used bookstores out, I’m telling you. Then the rain would come, And it would be time to put on our matching dusters and settle down, A cup of milky tea in one hand and a book with soft, browning pages in the other. This is one of the things I picture when I think of home: My grandmother laid out, all the way asleep on top of her book and her eyeglasses.</p>
 
-&lt;p&gt;Home is when you walk in anywhere and you are pretty sure you will see someone you know, Someone you went to high school with, maybe, or someone who’s your cousin, Your play cousin, your cousin’s cousin, or someone who used to work with your parents And met you one time when you were a baby, and every time they see you, They say, “Look how big you got!” and tell a story about that one thing you did From a time you can’t remember, but everyone remembers for you. Home is where you are a set of stories often repeated, a reputation, A conglomeration of the people who came before you. You’re so-and-so’s daughter, So-and-so’s granddaughter, so-and-so’s cousin, you know her, yeah!&lt;/p&gt;</content><author><name>{&quot;bio&quot;=&gt;&quot;I am a technical writer. I also write poetry and creative non-fiction.&quot;}</name></author><category term="poem" /><category term="poetry" /><category term="writing" /><summary type="html">I recently wrote this poem and wanted to share it here, rather than submitting it for publication elsewhere. I hope you enjoy it!</summary></entry><entry><title type="html">Removed Content</title><link href="http://localhost:4000/2019/08/22/removed-content.html" rel="alternate" type="text/html" title="Removed Content" /><published>2019-08-22T00:00:00-04:00</published><updated>2019-08-22T00:00:00-04:00</updated><id>http://localhost:4000/2019/08/22/removed-content</id><content type="html" xml:base="http://localhost:4000/2019/08/22/removed-content.html">&lt;p&gt;I’ve removed a few documents since several websites have scraped my website for content. Specifically, I have removed a presentation on how to write a scholarship essay and a sample recommendation report that I wrote as part of a technical writing course. This is also to serve as a reminder, again, that the content of this website belongs to me and should not be reposted or reproduced anywhere else without my consent.&lt;/p&gt;</content><author><name>{&quot;bio&quot;=&gt;&quot;I am a technical writer. I also write poetry and creative non-fiction.&quot;}</name></author><summary type="html">I’ve removed a few documents since several websites have scraped my website for content. Specifically, I have removed a presentation on how to write a scholarship essay and a sample recommendation report that I wrote as part of a technical writing course. This is also to serve as a reminder, again, that the content of this website belongs to me and should not be reposted or reproduced anywhere else without my consent.</summary></entry><entry><title type="html">Learning and Personal Development: HTML and CSS</title><link href="http://localhost:4000/2018/11/04/learning-and-personal-development-html-and-css.html" rel="alternate" type="text/html" title="Learning and Personal Development: HTML and CSS" /><published>2018-11-04T00:00:00-04:00</published><updated>2018-11-04T00:00:00-04:00</updated><id>http://localhost:4000/2018/11/04/learning-and-personal-development-html-and-css</id><content type="html" xml:base="http://localhost:4000/2018/11/04/learning-and-personal-development-html-and-css.html">&lt;p&gt;I believe it’s important to continue to develop skills and to learn. Learning keeps the mind sharp, and there’s a sense of accomplishment in developing new skills. I love learning how to do new things (and how to do them well).&lt;/p&gt;
-
-&lt;p&gt;Recently, I’ve rekindled my interest in learning more about web development.&lt;/p&gt;
-
-&lt;p&gt;I started learning HTML when I was in high school, but stopped after entering college and switching majors. A few years ago, I attended several &lt;a href=&quot;http://neworleanswit.org/&quot;&gt;New Orleans Women in Technology&lt;/a&gt; “learn to code” workshops and started learning about (the more modern version of) HTML and CSS, but I stopped again, due to moving and changing jobs.&lt;/p&gt;
-
-&lt;p&gt;Now, I’ve started learning more about HTML and CSS on my own, using online resources. I started the process recently and have learned some basics about HTML, using the &lt;a href=&quot;https://www.w3schools.com/html/default.asp&quot;&gt;W3Schools tutorial&lt;/a&gt; that a friend recommended. I took the exam to measure my progress; I &lt;a href=&quot;https://certification.w3schools.com/w3certified.asp?id=10136467&quot;&gt;passed&lt;/a&gt; on the first attempt. That’s a good start, but I know there’s more.&lt;/p&gt;
-
-&lt;p&gt;My next steps involve learning more about HTML and everything about CSS. Eventually, I want to have the skills that would allow me to build a useful, responsive, and &lt;a href=&quot;https://www.w3.org/WAI/fundamentals/accessibility-principles/&quot;&gt;accessible&lt;/a&gt; website.&lt;/p&gt;</content><author><name>{&quot;bio&quot;=&gt;&quot;I am a technical writer. I also write poetry and creative non-fiction.&quot;}</name></author><category term="learning" /><summary type="html">I believe it’s important to continue to develop skills and to learn. Learning keeps the mind sharp, and there’s a sense of accomplishment in developing new skills. I love learning how to do new things (and how to do them well).</summary></entry></feed>
+<p>Home is when you walk in anywhere and you are pretty sure you will see someone you know, Someone you went to high school with, maybe, or someone who’s your cousin, Your play cousin, your cousin’s cousin, or someone who used to work with your parents And met you one time when you were a baby, and every time they see you, They say, “Look how big you got!” and tell a story about that one thing you did From a time you can’t remember, but everyone remembers for you. Home is where you are a set of stories often repeated, a reputation, A conglomeration of the people who came before you. You’re so-and-so’s daughter, So-and-so’s granddaughter, so-and-so’s cousin, you know her, yeah!</p>]]></content><author><name>Angelle Leger</name></author><category term="poem" /><category term="poetry" /><category term="writing" /><summary type="html"><![CDATA[I recently wrote this poem and wanted to share it here, rather than submitting it for publication elsewhere. I hope you enjoy it!]]></summary></entry><entry><title type="html">Removed Content</title><link href="http://localhost:4000/2019/08/22/removed-content.html" rel="alternate" type="text/html" title="Removed Content" /><published>2019-08-22T00:00:00-04:00</published><updated>2019-08-22T00:00:00-04:00</updated><id>http://localhost:4000/2019/08/22/removed-content</id><content type="html" xml:base="http://localhost:4000/2019/08/22/removed-content.html"><![CDATA[<p>I’ve removed a few documents since several websites have scraped my website for content. Specifically, I have removed a presentation on how to write a scholarship essay and a sample recommendation report that I wrote as part of a technical writing course. This is also to serve as a reminder, again, that the content of this website belongs to me and should not be reposted or reproduced anywhere else without my consent.</p>]]></content><author><name>Angelle Leger</name></author><summary type="html"><![CDATA[I’ve removed a few documents since several websites have scraped my website for content. Specifically, I have removed a presentation on how to write a scholarship essay and a sample recommendation report that I wrote as part of a technical writing course. This is also to serve as a reminder, again, that the content of this website belongs to me and should not be reposted or reproduced anywhere else without my consent.]]></summary></entry></feed>
