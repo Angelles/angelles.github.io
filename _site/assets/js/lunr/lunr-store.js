@@ -136,4 +136,10 @@ var store = [{
         "tags": [],
         "url": "/hobbies/2023/07/07/technical-writing-and-sewing-instructions.html",
         "teaser": null
+      },{
+        "title": "I'm Pursuing a Computer Science Degree",
+        "excerpt":"It’s been almost a year since I last posted. What have I been up to? I’ve been pursuing a degree in computer science. Why computer science? I think it’s interesting. I enjoy writing programs, problem solving, and troubleshooting. I feel a sense of achievement I get when I complete or...","categories": ["learning"],
+        "tags": [],
+        "url": "/learning/2024/04/10/pursuing-cs-degree.html",
+        "teaser": null
       }]
