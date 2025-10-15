@@ -12,7 +12,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem 'wdm', '>= 0.1.0'
-gem "webrick", ">= 2.2.8"
+gem "webrick"
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data"
 gem 'liquid'
