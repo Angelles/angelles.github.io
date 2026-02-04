@@ -1300,3 +1300,64 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 .callout-danger::before {
     content: "WARNING: "
 }
+
+/* Connect page styles */
+.connect { min-height: 70vh; display: grid; place-items: center; padding: 28px 16px; }
+
+.connect .card{
+  width:100%; max-width:560px;
+  border:1px solid rgba(15,23,42,.12);
+  border-radius:20px;
+  padding:22px;
+  box-shadow:0 12px 30px rgba(2,6,23,.08);
+  background:#fff;
+}
+
+.connect .hero .name{ margin:0 0 6px; font-size:28px; line-height:1.15; letter-spacing:-.02em; }
+.connect .hero .tagline{ margin:0 0 10px; font-size:16px; opacity:.85; }
+
+.connect .meta{ display:flex; gap:10px; align-items:center; font-size:13px; opacity:.75; }
+.connect .meta .dot{ opacity:.6; }
+
+.connect .cta{ margin-top:18px; }
+.connect .btn{
+  display:inline-flex; width:100%;
+  justify-content:center; align-items:center;
+  padding:12px 14px;
+  border-radius:14px;
+  text-decoration:none;
+  font-weight:600;
+  border:1px solid rgba(2,6,23,.12);
+}
+.connect .btn.primary{ background:#0b0f14; color:#fff; border-color:#0b0f14; }
+.connect .hint{ margin:10px 0 0; font-size:13px; opacity:.75; }
+
+.connect .links{ margin-top:16px; display:flex; flex-wrap:wrap; gap:10px; }
+.connect .link{
+  padding:10px 12px; border-radius:999px;
+  border:1px solid rgba(2,6,23,.12);
+  text-decoration:none; color:inherit; font-size:14px;
+}
+
+.connect .founder, .connect .ask{
+  margin-top:18px; padding-top:16px;
+  border-top:1px solid rgba(2,6,23,.08);
+}
+.connect h2{ margin:0 0 8px; font-size:15px; letter-spacing:-.01em; }
+.connect p{ margin:0 0 10px; line-height:1.55; }
+
+.connect .bullets{ display:flex; flex-wrap:wrap; gap:8px; margin-top:8px; }
+.connect .pill{
+  font-size:12px; padding:7px 10px; border-radius:999px;
+  background:rgba(59,130,246,.10);
+  border:1px solid rgba(59,130,246,.18);
+}
+
+.connect ul{ margin:8px 0 0 18px; }
+
+.connect .trust{
+  margin-top:18px; padding-top:16px;
+  border-top:1px solid rgba(2,6,23,.08);
+  font-size:13px; opacity:.85;
+}
+.connect .trust .small{ opacity:.75; margin-top:6px; }
