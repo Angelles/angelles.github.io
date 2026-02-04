@@ -39,7 +39,7 @@ analytics:
     anonymize_ip: false # default
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: "minimal-mistakes-jekyll"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
