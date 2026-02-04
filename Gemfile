@@ -13,8 +13,8 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem 'wdm', '>= 0.1.0'
 
-# Use the minimal-mistakes theme locally to avoid remote downloads during build
-gem "minimal-mistakes-jekyll", "~> 4.24.0"
+# Using the remote theme on GitHub Pages (use `remote_theme` in `_config.yml`)
+# If you need to develop the theme locally, add `minimal-mistakes-jekyll` back to this Gemfile
 
 gem "webrick"
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
