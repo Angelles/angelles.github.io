@@ -1,0 +1,55 @@
+---
+import AboutHeroImage from '../assets/blog-placeholder-about.jpg';
+import Layout from '../layouts/BlogPost.astro';
+---
+
+<Layout
+	title="Contact"
+	description="Contact Angelle"
+	pubDate={new Date('October 21 2026')}
+>
+<style type="text/css" media="screen">
+  /* Make the form container a clean single column */
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  margin: 0 auto; /* Centers the form on the page */
+}
+
+/* Ensure labels sit above fields with proper spacing */
+form label {
+  display: block;
+  margin-top: 12px;
+  margin-bottom: 4px;
+  font-weight: 600;
+}
+
+/* Make inputs and textareas span full width and align cleanly */
+form input[type="text"],
+form input[type="email"],
+form textarea {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box; /* Prevents padding from breaking width */
+}
+
+/* Align the submit button */
+form input[type="submit"] {
+  margin-top: 16px;
+  align-self: flex-start; /* Or width: 100% to match */
+}
+  </style>
+        <form action="https://fabform.io/f/7I43StE" method="post" id="contact">
+            <label for="firstName">First Name </label>
+            <input name="firstName" type="text" required>
+            <label for="lastName">Last Name </label>
+            <input name="lastName" type="text" required>
+            <label for="email">Email </label>
+            <input name="email" type="email" required>
+          <label for="message">Message </label>
+          <textarea name="message" rows="5" cols="75" form="contact" required></textarea>
+            <p>Powered by <a href="https://fabform.io" target="_blank">fabform.io</a></p>
+            <button class="button is-link" type="submit">Submit</button>
+          </form>
+</Layout>

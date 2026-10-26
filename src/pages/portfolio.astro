@@ -1,0 +1,59 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+		<h1>Portfolio</h1>
+			<body>
+				<p>Technical writing samples are available upon request.</p>
+
+				<h2>Open source software documentation</h2>
+
+				<ul>
+					<li>LibreOffice: <a href="https://help.libreoffice.org/master/en-US/text/scalc/01/zoom.html">Zooming In and Out in Calc</a> (<a href="https://gerrit.libreoffice.org/c/help/+/148530">Patch request</a>)</li>
+				</ul>
+
+				<h2>GitHub</h2>
+
+				<ul>
+					<li><a href="https://github.com/Angelles">My GitHub profile</a></li>
+					<li><a href="https://github.com/Angelles/samples/tree/main">Samples</a></li>
+				</ul>
+
+				<h2>Poems and essays available online</h2>
+
+				<p>The following list includes links to some of the poems and essays I have written over the years, available online.</p>
+
+				<ul>
+					<li><a href="http://www.towncreekpoetry.com/SPR12/SCOTT_AUGUST.htm" target="_blank">"August: When a Window Unit Is Not Enough"</a> (<i>Town Creek Poetry</i>)</li>
+					<li><a href="http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/callaloo/v034/34.3.scott.html" target="_blank">"The Coon</a> (<i>Callaloo</i>)</li>
+					<li><a href="http://burlesquepressllc.com/2013/06/25/cyclical-by-angelle-scott/" target="_blank">"Cyclical"</a> (<i>Burlesque Press</i>)</li>
+					<li><a href="http://www.flywheelmag.com/357/in-the-cold-basement/" target="_blank">"in the cold basement"</a> (<i>Flywheel Magazine</i>)</li>
+				</ul>
+				<h2>Published Work</h2>
+
+				<ul>
+					<li>"The Men Who Sit Under the Trees." <i>The Southern Poetry Anthology: Volume V, Georgia.</i> Ed. William Wright. Huntsville, TX: Texas Review Press, 2013.</li>
+					<li>"When a Backyard Party Is Winding Down." <i>Fourteen Hills</i> 18.1 (2012): 78. Print.</li>
+					<li>"The Coon." <i>Callaloo: A Journal of African Diaspora Arts and Letters</i> 37.3 (Summer 2011): 798.</li>
+					<li>"Central City, New Orleans: Sunday Morning." <i>Black Magnolias Literary Journal</i> 4.3 (Fall 2010): 46.</li>
+					<li>"The Long-Term Effects of Betrayal." <i>Black Magnolias Literary Journal</i> 4.3 (Fall 2010): 47.</li>
+					<li>"while cicadas whine." <i>Black Magnolias Literary Journal</i> 4.3 (Fall 2010): 46.</li>
+					<li>"Mourning Station." <i>Reflections: A Journal of Writing, Service-Learning, and Community Literacy</i> 7.1 (2008): 16.</li>
+				</ul>
+
+			</body>
+		</main>
+		<Footer />
+	</body>
+</html>
