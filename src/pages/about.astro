@@ -1,0 +1,65 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+	<h1>About</h1>
+	<p>I have several years of experience in technical writing, teaching writing, and working on app development.</p>
+
+<p>My technical skills include:
+	<ul>
+	<li>Programming languages:
+		<ul>
+			<li>C</li>
+    		<li>Java</li>
+    		<li>Python</li>
+    		<li>Swift</li>
+		</ul>
+	</li>
+	<li>Markup languages:
+    	<ul>
+			<li>HTML</li>
+    		<li>Markdown</li>
+    		<li>XML</li>
+		</ul>
+	</li>
+	</ul>
+</p>
+<p>My professional skills include:
+	<ul>
+		<li>Building and maintaining web apps and native Android and iOS apps</li>
+		<li>Technical writing (6+ years)</li>
+		<li>Training</li>
+		<li>Editing/Proofreading</li>
+		<li>Tutoring</li>
+		<li>Teaching first-year college writing (freshman English composition)</li>
+		<li>Writing center administration</li>
+	</ul>
+</p>
+
+<p>You may also check out <a href="https://www.linkedin.com/in/angellescottleger">my LinkedIn page</a> to learn more about me. 
+You may also check out my <a href="/blog">blog</a>.</p>
+
+<p>Please contact me via my <a href="/contact">contact form</a> if you are interested in working with me.</p><!--fix contact form-->
+
+<p>Links to samples of my creative work are on my <a href="portfolio.astro">portfolio page</a>. <!--fix portfolio page-->
+Samples of business/technical writing are available upon request.</p>
+
+<p>If you are wondering how to pronounce my name, here is <a href="https://www.youtube.com/watch?v=fj_ftgIrYQE">a link to a video that explains how to pronounce Angelle</a>. (Hint: it rhymes with Michelle, Gabrielle, and Danielle!)</p>
+
+<p>All of the content on this website is created by me, Angelle Scott Leger. If you link to or quote from something I wrote, please be sure to include an attribution to me and a link to the original source material.</p>
+</main>
+<Footer />
+
+</body>
+</html>
