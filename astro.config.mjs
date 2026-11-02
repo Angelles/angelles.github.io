@@ -12,7 +12,11 @@ export default defineConfig({
 	integrations: [mdx(), sitemap(), partytown(
 			{
 				// Disable debug mode.
-				config: { debug: false },
+				config: { 
+					debug: false,
+					forward: ['dataLayer.push'],
+				 },
+
 			}
 	)],
 	fonts: [
