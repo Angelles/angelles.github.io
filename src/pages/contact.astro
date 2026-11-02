@@ -1,14 +1,17 @@
 ---
-import AboutHeroImage from '../assets/blog-placeholder-about.jpg';
-import Layout from '../layouts/BlogPost.astro';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import GoogleTag from '../components/GoogleTag.astro';
 ---
 
-<Layout
-	title="Contact"
-	description="Contact Angelle"
-	pubDate={new Date('October 21 2026')}
->
-<style type="text/css" media="screen">
+<!doctype html>
+<html lang="en">
+	<head>
+		<GoogleTag />
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+    <style type="text/css" media="screen">
   /* Make the form container a clean single column */
 form {
   display: flex;
@@ -40,6 +43,11 @@ form input[type="submit"] {
   align-self: flex-start; /* Or width: 100% to match */
 }
   </style>
+	</head>
+	<body>
+		<Header />
+		<main>
+        <h1>Contact me</h1>
         <form action="https://fabform.io/f/7I43StE" method="post" id="contact">
             <label for="firstName">First Name </label>
             <input name="firstName" type="text" required>
@@ -52,4 +60,7 @@ form input[type="submit"] {
             <p>Powered by <a href="https://fabform.io" target="_blank">fabform.io</a></p>
             <button class="button is-link" type="submit">Submit</button>
           </form>
-</Layout>
+
+</main>
+</body>
+</html>
