@@ -3,22 +3,12 @@
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig, fontProviders } from 'astro/config';
-import partytown from '@astrojs/partytown';
 
 
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://www.angelleleger.net',
-	integrations: [mdx(), sitemap(), partytown(
-			{
-				// Disable debug mode.
-				config: { 
-					debug: false,
-					forward: ['dataLayer.push'],
-				 },
-
-			}
-	)],
+	integrations: [mdx(), sitemap()],
 	fonts: [
 		{
 			provider: fontProviders.local(),

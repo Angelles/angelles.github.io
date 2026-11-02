@@ -3,10 +3,10 @@ const GOOGLE_TAG_ID = 'G-4BDG3XJ330';
 ---
 
 <!-- Google tag (gtag.js) -->
-<script is:inline type="text/partytown" async src={`https://www.googletagmanager.com/gtag/js?id=${GOOGLE_TAG_ID}`}></script>
-	<script is:inline type="text/partytown" define:vars={{ GOOGLE_TAG_ID }}>
+<script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${GOOGLE_TAG_ID}`}></script>
+	<script is:inline define:vars={{ GOOGLE_TAG_ID }}>
 	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
+	function gtag(){window.dataLayer.push(arguments);}
 	gtag('js', new Date());
 
 	gtag('config', GOOGLE_TAG_ID);
